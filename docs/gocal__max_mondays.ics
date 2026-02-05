@@ -10,37 +10,24 @@ X-WR-CALDESC:All Pokémon GO Max Mondays events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
-TZID:America/New_York
-BEGIN:STANDARD
-DTSTART:20251102T020000Z
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20260308T020000Z
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250511T023917Z
+DTSTART:20250511T024239Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2026-02-09
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[MM] Dynamax Growlithe during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-02-09/
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-02-09/
 URL:https://leekduck.com/events/max-mondays-2026-02-09/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=America/New_York:20260209T180000
-DTEND;TZID=America/New_York:20260209T190000
+DTSTART:20260209T230000Z
+DTEND:20260210T000000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dynamax Growlithe during Max Monday
@@ -49,15 +36,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-02-16
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[MM] Dynamax Machop during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-02-16/
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-02-16/
 URL:https://leekduck.com/events/max-mondays-2026-02-16/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=America/New_York:20260216T180000
-DTEND;TZID=America/New_York:20260216T190000
+DTSTART:20260216T230000Z
+DTEND:20260217T000000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dynamax Machop during Max Monday
@@ -66,15 +53,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-02-23
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[MM] Unannounced Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-02-23/
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-02-23/
 URL:https://leekduck.com/events/max-mondays-2026-02-23/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=America/New_York:20260223T180000
-DTEND;TZID=America/New_York:20260223T190000
+DTSTART:20260223T230000Z
+DTEND:20260224T000000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Unannounced Max Monday

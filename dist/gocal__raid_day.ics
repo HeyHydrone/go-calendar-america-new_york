@@ -10,42 +10,24 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
-TZID:America/New_York
-BEGIN:STANDARD
-DTSTART:20251102T020000Z
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20260308T020000Z
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20261101T020000Z
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250511T023917Z
+DTSTART:20250511T024239Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raid-day-february-2026
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[RD] Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-february-2026/
+DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
+ m/events/raid-day-february-2026/
 URL:https://leekduck.com/events/raid-day-february-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART;TZID=America/New_York:20260214T140000
-DTEND;TZID=America/New_York:20260214T170000
+DTSTART:20260214T190000Z
+DTEND:20260214T220000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Raid Day
@@ -54,15 +36,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2026
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[RD] Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-april-2026/
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/raid-day-april-2026/
 URL:https://leekduck.com/events/raid-day-april-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART;TZID=America/New_York:20260404T140000
-DTEND;TZID=America/New_York:20260404T170000
+DTSTART:20260404T180000Z
+DTEND:20260404T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Raid Day
@@ -71,15 +53,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2026
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[RD] Shadow Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /shadow-raid-day-may-2026/
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/shadow-raid-day-may-2026/
 URL:https://leekduck.com/events/shadow-raid-day-may-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART;TZID=America/New_York:20260502T140000
-DTEND;TZID=America/New_York:20260502T170000
+DTSTART:20260502T180000Z
+DTEND:20260502T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Shadow Raid Day
@@ -88,15 +70,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2026
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[RD] Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-may-2026/
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/raid-day-may-2026/
 URL:https://leekduck.com/events/raid-day-may-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART;TZID=America/New_York:20260523T140000
-DTEND;TZID=America/New_York:20260523T170000
+DTSTART:20260523T180000Z
+DTEND:20260523T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Raid Day

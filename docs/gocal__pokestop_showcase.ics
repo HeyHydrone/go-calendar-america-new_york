@@ -10,38 +10,25 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
-TZID:America/New_York
-BEGIN:STANDARD
-DTSTART:20251102T020000Z
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20260308T020000Z
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250511T023917Z
+DTSTART:20250508T150000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:toucannon-ludicolo-quaquaval-showcase-february-2026
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[PS] Toucannon\, Ludicolo\, and Quaquaval PokéStop Showcase
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /toucannon-ludicolo-quaquaval-showcase-february-2026/
+DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/toucannon-ludicolo-quaquaval-showcase-february-2026/
 URL:https://leekduck.com/events/toucannon-ludicolo-quaquaval-showcase-febru
  ary-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=America/New_York;VALUE=DATE:20260202
-DTEND;TZID=America/New_York;VALUE=DATE:20260204
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260205
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Toucannon\, Ludicolo\, and Quaquaval PokéStop Showcase

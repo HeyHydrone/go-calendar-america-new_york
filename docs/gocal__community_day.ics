@@ -10,41 +10,23 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
-TZID:America/New_York
-BEGIN:STANDARD
-DTSTART:20251102T020000Z
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20260308T020000Z
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20261101T020000Z
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250511T023917Z
+DTSTART:20250511T024239Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:march-communityday2026
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[CD] March Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /march-communityday2026/
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/march-communityday2026/
 URL:https://leekduck.com/events/march-communityday2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-DTSTART;TZID=America/New_York:20260314T140000
-DTEND;TZID=America/New_York:20260314T170000
+DTSTART:20260314T180000Z
+DTEND:20260314T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[CD] March Community Day
@@ -53,14 +35,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2026
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[CD] April Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /april-communityday2026/
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/april-communityday2026/
 URL:https://leekduck.com/events/april-communityday2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-DTSTART;TZID=America/New_York:20260411T140000
-DTEND;TZID=America/New_York:20260411T170000
+DTSTART:20260411T180000Z
+DTEND:20260411T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[CD] April Community Day
@@ -69,14 +51,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2026
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[CD] May Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /may-communityday2026/
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/may-communityday2026/
 URL:https://leekduck.com/events/may-communityday2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-DTSTART;TZID=America/New_York:20260509T140000
-DTEND;TZID=America/New_York:20260509T170000
+DTSTART:20260509T180000Z
+DTEND:20260509T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[CD] May Community Day
@@ -85,14 +67,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260205T023917Z
+DTSTAMP:20260205T024239Z
 SUMMARY:[CD] May Community Day Classic
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /may-communitydayclassic2026/
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/may-communitydayclassic2026/
 URL:https://leekduck.com/events/may-communitydayclassic2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-DTSTART;TZID=America/New_York:20260516T140000
-DTEND;TZID=America/New_York:20260516T170000
+DTSTART:20260516T180000Z
+DTEND:20260516T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[CD] May Community Day Classic
