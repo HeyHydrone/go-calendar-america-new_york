@@ -106,62 +106,37 @@ class LeekDuckEvent
      * Changes the events start and end date Carbon instances to be presented in a new timezone.
      */
     public function changeTimezone(string $timezone = CalendarService::TIMEZONE): void
-    {
-        $this->startDate = Carbon::parse(
-            time: $this->startDateString,
-            timezone: new \DateTimeZone(
-                timezone: $timezone
-            )
-        );
+{
+    $tz = new \DateTimeZone($timezone);
+    $this->startDate = Carbon::parse($this->startDateString, $tz);
+    $this->endDate   = Carbon::parse($this->endDateString, $tz);
+}
 
-        $this->endDate = Carbon::parse(
-            time: $this->endDateString,
-            timezone: new \DateTimeZone(
-                timezone: $timezone
-            )
-        );
-    }
 
     /**
      * Converts a Leek Duck event to a calendar event.
      */
     public function asCalendarEvent(string $timezone = CalendarService::TIMEZONE): Event
-    {
-        $this->changeTimezone(
-            timezone: $timezone
-        );
+{
+    // Force start/end in America/New_York
+    $this->changeTimezone(timezone: $timezone);
 
-        $calendarEvent = Event::create()
-            ->uniqueIdentifier(
-                uid: $this->eventId
-            )
-            ->name(
-                name: $this->title,
-            )
-            ->description(
-                description: $this->description
-            )
-            ->url(
-                url: $this->link
-            )
-            ->image(
-                url: $this->imageUrl
-            )
-            ->alertMinutesBefore(
-                minutes: 15,
-                message: $this->title
-            )
-            ->startsAt(
-                starts: $this->startDate
-            )
-            ->endsAt(
-                ends: $this->endDate
-            );
+    $calendarEvent = Event::create()
+        ->uniqueIdentifier($this->eventId)
+        ->name($this->title)
+        ->description($this->description)
+        ->url($this->link)
+        ->image($this->imageUrl)
+        ->alertMinutesBefore(15, $this->title)
+        // Use withoutTimezone() to strip Z but keep NY local time
+        ->startsAt($this->startDate->withoutTimezone())
+        ->endsAt($this->endDate->withoutTimezone());
 
-        if ($this->isFullDay) {
-            $calendarEvent->fullDay();
-        }
-
-        return $calendarEvent;
+    if ($this->isFullDay) {
+        $calendarEvent->fullDay();
     }
+
+    return $calendarEvent;
+}
+
 }
