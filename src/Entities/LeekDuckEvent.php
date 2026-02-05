@@ -115,24 +115,34 @@ class LeekDuckEvent
     /**
      * Converts a Leek Duck event to a calendar event.
      */
-    public function asCalendarEvent(string $timezone = CalendarService::TIMEZONE): Event
-    {
-        $this->changeTimezone($timezone);
+    public function asCalendarEvent(): Event
+{
+    // Keep the original NY times in variables
+    $nyStart = $this->startDate->copy();
+    $nyEnd   = $this->endDate->copy();
 
-        $calendarEvent = Event::create()
-            ->uniqueIdentifier($this->eventId)
-            ->name($this->title)
-            ->description($this->description)
-            ->url($this->link)
-            ->image($this->imageUrl)
-            ->alertMinutesBefore(15, $this->title)
-            ->startsAt($this->startDate->setTimezone(new \DateTimeZone($timezone))->toDateTimeImmutable())
-            ->endsAt($this->endDate->setTimezone(new \DateTimeZone($timezone))->toDateTimeImmutable());
+    // Convert to UTC for Google Calendar
+    $utcStart = $nyStart->setTimezone(new \DateTimeZone('UTC'))->toDateTimeImmutable();
+    $utcEnd   = $nyEnd->setTimezone(new \DateTimeZone('UTC'))->toDateTimeImmutable();
 
-        if ($this->isFullDay) {
-            $calendarEvent->fullDay();
-        }
+    $calendarEvent = Event::create()
+        ->uniqueIdentifier($this->eventId)
+        ->name($this->title)
+        ->description(
+            // Show original NY times in description
+            "Starts at {$nyStart->format('H:i')} EST, ends at {$nyEnd->format('H:i')} EST.\n\n{$this->link}"
+        )
+        ->url($this->link)
+        ->image($this->imageUrl)
+        ->alertMinutesBefore(15, $this->title)
+        ->startsAt($utcStart)
+        ->endsAt($utcEnd);
 
-        return $calendarEvent;
+    if ($this->isFullDay) {
+        $calendarEvent->fullDay();
     }
+
+    return $calendarEvent;
+}
+
 }
