@@ -27,7 +27,7 @@ class CalendarService
      * Why Reykjavik?
      * It's a common trick to use it in cases like this as a substitute for UTC as it doesn't observe daylight savings.
      */
-    public const TIMEZONE = 'Atlantic/Reykjavik';
+    public const TIMEZONE = 'America/New_York';
 
     /**
      * Calendar manifest store, by event type.
