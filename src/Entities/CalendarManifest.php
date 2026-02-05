@@ -31,9 +31,8 @@ class CalendarManifest
                 )
                 ->refreshInterval(
                     minutes: 1440 // 1 day
-                    )
+                )
                 ->timezone('America/New_York')
-                
         );
     }
 }
