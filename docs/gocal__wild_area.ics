@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Wild Area (WA)
+X-WR-CALNAME:GO Calendar - Wild Area (WA)
+DESCRIPTION:All Pokémon GO Wild Area events\, in your local time\, auto-up
+ dated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Wild Area events\, in your local time\, auto-u
+ pdated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:pokemon-go-wild-area-2025-global
+DTSTAMP:20251117T003137Z
+SUMMARY:[WA] Pokémon GO Wild Area: Global
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-wild-area-2025-global/
+URL:https://leekduck.com/events/pokemon-go-wild-area-2025-global/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-
+ art.jpg
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WA] Pokémon GO Wild Area: Global
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

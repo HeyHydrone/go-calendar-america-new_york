@@ -10,66 +10,66 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20260204
-DTSTAMP:20260205T010622Z
-SUMMARY:[RH] Dialga and Palkia Raid Hour
+UID:raidhour20260107
+DTSTAMP:20260106T003334Z
+SUMMARY:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20260204/
-URL:https://leekduck.com/events/raidhour20260204/
+ /raidhour20260107/
+URL:https://leekduck.com/events/raidhour20260107/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20260204T180000
-DTEND:20260204T190000
+DTSTART:20260107T180000
+DTEND:20260107T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RH] Dialga and Palkia Raid Hour
+DESCRIPTION:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raidhour20260211
-DTSTAMP:20260205T010622Z
-SUMMARY:[RH] Dialga and Palkia Raid Hour
+UID:raidhour20260114
+DTSTAMP:20260106T003334Z
+SUMMARY:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20260211/
-URL:https://leekduck.com/events/raidhour20260211/
+ /raidhour20260114/
+URL:https://leekduck.com/events/raidhour20260114/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20260211T180000
-DTEND:20260211T190000
+DTSTART:20260114T180000
+DTEND:20260114T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RH] Dialga and Palkia Raid Hour
+DESCRIPTION:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raidhour20260218
-DTSTAMP:20260205T010622Z
-SUMMARY:[RH] Solgaleo Raid Hour
+UID:raidhour20260121
+DTSTAMP:20260106T003334Z
+SUMMARY:[RH] Thundurus (Incarnate Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20260218/
-URL:https://leekduck.com/events/raidhour20260218/
+ /raidhour20260121/
+URL:https://leekduck.com/events/raidhour20260121/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20260218T180000
-DTEND:20260218T190000
+DTSTART:20260121T180000
+DTEND:20260121T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RH] Solgaleo Raid Hour
+DESCRIPTION:[RH] Thundurus (Incarnate Forme) Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raidhour20260225
-DTSTAMP:20260205T010622Z
-SUMMARY:[RH] Lunala Raid Hour
+UID:raidhour20260128
+DTSTAMP:20260106T003334Z
+SUMMARY:[RH] Tornadus (Incarnate Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20260225/
-URL:https://leekduck.com/events/raidhour20260225/
+ /raidhour20260128/
+URL:https://leekduck.com/events/raidhour20260128/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20260225T180000
-DTEND:20260225T190000
+DTSTART:20260128T180000
+DTEND:20260128T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RH] Lunala Raid Hour
+DESCRIPTION:[RH] Tornadus (Incarnate Forme) Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
