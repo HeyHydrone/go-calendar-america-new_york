@@ -156,8 +156,7 @@ class LeekDuckEvent
             )
             ->endsAt(
                 ends: $this->endDate
-            )
-            ->withoutTimezone();
+            );
 
         if ($this->isFullDay) {
             $calendarEvent->fullDay();
