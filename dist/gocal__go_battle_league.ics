@@ -10,24 +10,29 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
-TZID:Z
+TZID:America/New_York
 BEGIN:STANDARD
-DTSTART:20250509T210000Z
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
+DTSTART:20251102T020000Z
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260308T020000Z
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250511T020607Z
+DTSTART:20250511T023917Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gbl-precious-paths_ultra-league_2026-championship-series-cup
-DTSTAMP:20260205T020607Z
+DTSTAMP:20260205T023917Z
 SUMMARY:[GBL] Ultra League and 2026 Championship Series Cup | Precious Path
  s
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -36,8 +41,8 @@ URL:https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-champi
  onship-series-cup/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
  -ultra-league-machamp-swampert.jpg
-DTSTART;TZID=Z;VALUE=DATE:20260203
-DTEND;TZID=Z;VALUE=DATE:20260210
+DTSTART;TZID=America/New_York;VALUE=DATE:20260203
+DTEND;TZID=America/New_York;VALUE=DATE:20260210
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GBL] Ultra League and 2026 Championship Series Cup | Precious 
@@ -47,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_master-league_2026-championship-series-cup
-DTSTAMP:20260205T020607Z
+DTSTAMP:20260205T023917Z
 SUMMARY:[GBL] Master League and 2026 Championship Series Cup | Precious Pat
  hs
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -56,8 +61,8 @@ URL:https://leekduck.com/events/gbl-precious-paths_master-league_2026-champ
  ionship-series-cup/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
  aster-key.jpg
-DTSTART;TZID=Z;VALUE=DATE:20260210
-DTEND;TZID=Z;VALUE=DATE:20260217
+DTSTART;TZID=America/New_York;VALUE=DATE:20260210
+DTEND;TZID=America/New_York;VALUE=DATE:20260217
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GBL] Master League and 2026 Championship Series Cup | Precious
@@ -67,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_love-cup-great-league-edition
-DTSTAMP:20260205T020607Z
+DTSTAMP:20260205T023917Z
 SUMMARY:[GBL] Great League and Love Cup: Great League Edition | Precious Pa
  ths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -76,8 +81,8 @@ URL:https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-gr
  eat-league-edition/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
  ague-key.jpg
-DTSTART;TZID=Z;VALUE=DATE:20260217
-DTEND;TZID=Z;VALUE=DATE:20260224
+DTSTART;TZID=America/New_York;VALUE=DATE:20260217
+DTEND;TZID=America/New_York;VALUE=DATE:20260224
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GBL] Great League and Love Cup: Great League Edition | Preciou
@@ -87,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_ultra-league_master-league-mega-edition
-DTSTAMP:20260205T020607Z
+DTSTAMP:20260205T023917Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League: Mega Edition
   | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -96,8 +101,8 @@ URL:https://leekduck.com/events/gbl-precious-paths_great-league_ultra-leagu
  e_master-league-mega-edition/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
  -season-25-precious-paths.jpg
-DTSTART;TZID=Z;VALUE=DATE:20260224
-DTEND;TZID=Z;VALUE=DATE:20260303
+DTSTART;TZID=America/New_York;VALUE=DATE:20260224
+DTEND;TZID=America/New_York;VALUE=DATE:20260303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League: Mega Edi
