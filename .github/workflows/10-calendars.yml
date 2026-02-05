@@ -39,6 +39,11 @@ jobs:
         run: bin/gocal gen
         continue-on-error: false
 
+      - name: Copy .ics files to docs for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp dist/*.ics docs/
+
       - name: Don't Commit composer.json change
         run: git checkout -- composer.json
 
