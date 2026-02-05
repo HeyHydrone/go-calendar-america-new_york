@@ -9,9 +9,30 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
  ed and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20251102T020000Z
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260308T020000Z
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20250511T014706Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:oricorio-catch-mastery-day-february-2026
-DTSTAMP:20260205T014138Z
+DTSTAMP:20260205T014706Z
 SUMMARY:[E] Oricorio Catch Mastery
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /oricorio-catch-mastery-day-february-2026/
@@ -19,8 +40,8 @@ URL:https://leekduck.com/events/oricorio-catch-mastery-day-february-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mas
  tery.jpg
-DTSTART:20260207T100000
-DTEND:20260207T200000
+DTSTART;TZID=America/New_York:20260207T100000
+DTEND;TZID=America/New_York:20260207T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Oricorio Catch Mastery
@@ -29,15 +50,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:carnival-of-flamigo
-DTSTAMP:20260205T014138Z
+DTSTAMP:20260205T014706Z
 SUMMARY:[E] Carnival of Flamigo
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /carnival-of-flamigo/
 URL:https://leekduck.com/events/carnival-of-flamigo/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg
-DTSTART;VALUE=DATE:20260203
-DTEND;VALUE=DATE:20260208
+DTSTART;TZID=America/New_York;VALUE=DATE:20260203
+DTEND;TZID=America/New_York;VALUE=DATE:20260208
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Carnival of Flamigo
@@ -46,15 +67,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:valentines-day-2026
-DTSTAMP:20260205T014138Z
+DTSTAMP:20260205T014706Z
 SUMMARY:[E] Valentine's Day 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /valentines-day-2026/
 URL:https://leekduck.com/events/valentines-day-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg
-DTSTART;VALUE=DATE:20260210
-DTEND;VALUE=DATE:20260215
+DTSTART;TZID=America/New_York;VALUE=DATE:20260210
+DTEND;TZID=America/New_York;VALUE=DATE:20260215
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Valentine's Day 2026
@@ -63,15 +84,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2026
-DTSTAMP:20260205T014138Z
+DTSTAMP:20260205T014706Z
 SUMMARY:[E] Lunar New Year 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2026/
 URL:https://leekduck.com/events/lunar-new-year-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-02-17-lunar-new-year-2026/lunar-new-year-2026.jpg
-DTSTART;VALUE=DATE:20260217
-DTEND;VALUE=DATE:20260221
+DTSTART;TZID=America/New_York;VALUE=DATE:20260217
+DTEND;TZID=America/New_York;VALUE=DATE:20260221
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Lunar New Year 2026
@@ -80,15 +101,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-kalos
-DTSTAMP:20260205T014138Z
+DTSTAMP:20260205T014706Z
 SUMMARY:[E] Road to Kalos
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /road-to-kalos/
 URL:https://leekduck.com/events/road-to-kalos/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-02-23-road-to-kalos/road-to-kalos.jpg
-DTSTART;VALUE=DATE:20260223
-DTEND;VALUE=DATE:20260227
+DTSTART;TZID=America/New_York;VALUE=DATE:20260223
+DTEND;TZID=America/New_York;VALUE=DATE:20260227
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Road to Kalos
@@ -97,15 +118,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260205T014138Z
+DTSTAMP:20260205T014706Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
 URL:https://leekduck.com/events/hatch-day-april-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART:20260418T140000
-DTEND:20260418T170000
+DTSTART;TZID=America/New_York:20260418T140000
+DTEND;TZID=America/New_York:20260418T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Hatch Day

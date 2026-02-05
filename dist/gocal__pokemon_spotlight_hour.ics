@@ -9,17 +9,38 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
   time\, auto-updated and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20251102T020000Z
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260308T020000Z
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20250511T014706Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-10
-DTSTAMP:20260205T014138Z
+DTSTAMP:20260205T014706Z
 SUMMARY:[PSH] Munna Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-10/
 URL:https://leekduck.com/events/pokemonspotlighthour2026-02-10/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
  hour.jpg
-DTSTART:20260210T180000
-DTEND:20260210T190000
+DTSTART;TZID=America/New_York:20260210T180000
+DTEND;TZID=America/New_York:20260210T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Munna Spotlight Hour
@@ -28,15 +49,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-17
-DTSTAMP:20260205T014138Z
+DTSTAMP:20260205T014706Z
 SUMMARY:[PSH] Horsea Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-17/
 URL:https://leekduck.com/events/pokemonspotlighthour2026-02-17/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
  hour.jpg
-DTSTART:20260217T180000
-DTEND:20260217T190000
+DTSTART;TZID=America/New_York:20260217T180000
+DTEND;TZID=America/New_York:20260217T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Horsea Spotlight Hour
@@ -45,15 +66,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-24
-DTSTAMP:20260205T014138Z
+DTSTAMP:20260205T014706Z
 SUMMARY:[PSH] Totodile Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-24/
 URL:https://leekduck.com/events/pokemonspotlighthour2026-02-24/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
  hour.jpg
-DTSTART:20260224T180000
-DTEND:20260224T190000
+DTSTART;TZID=America/New_York:20260224T180000
+DTEND;TZID=America/New_York:20260224T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Totodile Spotlight Hour
