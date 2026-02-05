@@ -116,24 +116,23 @@ class LeekDuckEvent
      * Converts a Leek Duck event to a calendar event.
      */
     public function asCalendarEvent(string $timezone = CalendarService::TIMEZONE): Event
-{
-    $this->changeTimezone($timezone);
+    {
+        $this->changeTimezone($timezone);
 
-    $calendarEvent = Event::create()
-        ->uniqueIdentifier($this->eventId)
-        ->name($this->title)
-        ->description($this->description)
-        ->url($this->link)
-        ->image($this->imageUrl)
-        ->alertMinutesBefore(15, $this->title)
-        ->startsAt($this->startDate->setTimezone(new \DateTimeZone($timezone))->toDateTimeImmutable())
-        ->endsAt($this->endDate->setTimezone(new \DateTimeZone($timezone))->toDateTimeImmutable());
+        $calendarEvent = Event::create()
+            ->uniqueIdentifier($this->eventId)
+            ->name($this->title)
+            ->description($this->description)
+            ->url($this->link)
+            ->image($this->imageUrl)
+            ->alertMinutesBefore(15, $this->title)
+            ->startsAt($this->startDate->setTimezone(new \DateTimeZone($timezone))->toDateTimeImmutable())
+            ->endsAt($this->endDate->setTimezone(new \DateTimeZone($timezone))->toDateTimeImmutable());
 
-    if ($this->isFullDay) {
-        $calendarEvent->fullDay();
+        if ($this->isFullDay) {
+            $calendarEvent->fullDay();
+        }
+
+        return $calendarEvent;
     }
-
-    return $calendarEvent;
-}
-
 }
