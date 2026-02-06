@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250511T024407Z
+DTSTART:20250512T020106Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-battle-day-february-2026
-DTSTAMP:20260205T024407Z
+DTSTAMP:20260206T020106Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/max-battle-day-february-2026/
@@ -35,8 +35,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gigantamax-meowth-max-battle-day-2026
+DTSTAMP:20260206T020106Z
+SUMMARY:[MB] Gigantamax Meowth Max Battle Day
+DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
+ m/events/gigantamax-meowth-max-battle-day-2026/
+URL:https://leekduck.com/events/gigantamax-meowth-max-battle-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-15-gigantamax-meowth-max-battle-day-2026/gigantamax-meowth-max
+ -battle-day.jpg
+DTSTART:20260215T190000Z
+DTEND:20260215T220000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Gigantamax Meowth Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-march-2026
-DTSTAMP:20260205T024407Z
+DTSTAMP:20260206T020106Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/max-battle-day-march-2026/
@@ -53,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-april-2026
-DTSTAMP:20260205T024407Z
+DTSTAMP:20260206T020106Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/max-battle-day-april-2026/
