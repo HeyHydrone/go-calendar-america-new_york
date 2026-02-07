@@ -12,26 +12,25 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250508T150000Z
+DTSTART:20250513T015706Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:toucannon-ludicolo-quaquaval-showcase-february-2026
-DTSTAMP:20260205T024407Z
-SUMMARY:[PS] Toucannon\, Ludicolo\, and Quaquaval PokéStop Showcase
+UID:flamigo-showcase-february-2026
+DTSTAMP:20260207T015706Z
+SUMMARY:[PS] Flamigo PokéStop Showcase
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/toucannon-ludicolo-quaquaval-showcase-february-2026/
-URL:https://leekduck.com/events/toucannon-ludicolo-quaquaval-showcase-febru
- ary-2026/
+ m/events/flamigo-showcase-february-2026/
+URL:https://leekduck.com/events/flamigo-showcase-february-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260202
-DTEND;VALUE=DATE:20260205
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260209
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Toucannon\, Ludicolo\, and Quaquaval PokéStop Showcase
+DESCRIPTION:[PS] Flamigo PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
