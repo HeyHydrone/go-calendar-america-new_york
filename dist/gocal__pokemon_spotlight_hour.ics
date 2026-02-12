@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250516T230000Z
+DTSTART:20250518T020800Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-02-10
-DTSTAMP:20260211T021405Z
-SUMMARY:[PSH] Munna Spotlight Hour
-DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
- m/events/pokemonspotlighthour2026-02-10/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-02-10/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART:20260210T230000Z
-DTEND:20260211T000000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Munna Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-17
-DTSTAMP:20260211T021405Z
+DTSTAMP:20260212T020800Z
 SUMMARY:[PSH] Horsea Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-02-17/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-24
-DTSTAMP:20260211T021405Z
+DTSTAMP:20260212T020800Z
 SUMMARY:[PSH] Totodile Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-02-24/
