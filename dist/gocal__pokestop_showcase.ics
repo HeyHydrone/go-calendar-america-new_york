@@ -12,25 +12,26 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250515T150000Z
+DTSTART:20250520T015903Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:flying-type-pokemon-showcase-february-2026
-DTSTAMP:20260212T020800Z
-SUMMARY:[PS] Flying-type Pokémon PokéStop Showcase
+UID:enamorus-(therian-forme)-showcase-february-2026
+DTSTAMP:20260214T015903Z
+SUMMARY:[PS] Enamorus (Therian Forme) PokéStop Showcase
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/flying-type-pokemon-showcase-february-2026/
-URL:https://leekduck.com/events/flying-type-pokemon-showcase-february-2026/
+ m/events/enamorus-(therian-forme)-showcase-february-2026/
+URL:https://leekduck.com/events/enamorus-(therian-forme)-showcase-february-
+ 2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260209
-DTEND;VALUE=DATE:20260212
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260216
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Flying-type Pokémon PokéStop Showcase
+DESCRIPTION:[PS] Enamorus (Therian Forme) PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
