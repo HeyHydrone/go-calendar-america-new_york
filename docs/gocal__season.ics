@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:season-21-precious-paths
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[S] Precious Paths
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/season-21-precious-paths/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-event-march-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[S] Season Event
 DESCRIPTION:Starts at 15:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/season-event-march-2026/

@@ -18,95 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-meowth-max-battle-day-2026
-DTSTAMP:20260216T020605Z
-SUMMARY:[MB] Gigantamax Meowth Max Battle Day
-DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
- m/events/gigantamax-meowth-max-battle-day-2026/
-URL:https://leekduck.com/events/gigantamax-meowth-max-battle-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-15-gigantamax-meowth-max-battle-day-2026/gigantamax-meowth-max
- -battle-day.jpg
-DTSTART:20260215T190000Z
-DTEND:20260215T220000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Meowth Max Battle Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:valentines-day-2026
-DTSTAMP:20260216T020605Z
-SUMMARY:[E] Valentine's Day 2026
-DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/valentines-day-2026/
-URL:https://leekduck.com/events/valentines-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg
-DTSTART;VALUE=DATE:20260210
-DTEND;VALUE=DATE:20260216
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Valentine's Day 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:enamorus-(therian-forme)-showcase-february-2026
-DTSTAMP:20260216T020605Z
-SUMMARY:[PS] Enamorus (Therian Forme) PokéStop Showcase
-DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/enamorus-(therian-forme)-showcase-february-2026/
-URL:https://leekduck.com/events/enamorus-(therian-forme)-showcase-february-
- 2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20260214
-DTEND;VALUE=DATE:20260216
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Enamorus (Therian Forme) PokéStop Showcase
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dialga-and-palkia-in-5-star-raid-battles-february-2026
-DTSTAMP:20260216T020605Z
-SUMMARY:[RB] Dialga and Palkia in 5-star Raid Battles
-DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
- m/events/dialga-and-palkia-in-5-star-raid-battles-february-2026/
-URL:https://leekduck.com/events/dialga-and-palkia-in-5-star-raid-battles-fe
- bruary-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;VALUE=DATE:20260204
-DTEND;VALUE=DATE:20260216
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Dialga and Palkia in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-pidgeot-in-mega-raids-february-2026
-DTSTAMP:20260216T020605Z
-SUMMARY:[RB] Mega Pidgeot in Mega Raids
-DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
- m/events/mega-pidgeot-in-mega-raids-february-2026/
-URL:https://leekduck.com/events/mega-pidgeot-in-mega-raids-february-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20260204
-DTEND;VALUE=DATE:20260216
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Pidgeot in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-02-16
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[MM] Dynamax Machop during Max Monday
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-02-16/
@@ -123,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_master-league_2026-championship-series-cup
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[GBL] Master League and 2026 Championship Series Cup | Precious Pat
  hs
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -143,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-17
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[PSH] Horsea Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-02-17/
@@ -160,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260218
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RH] Solgaleo Raid Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20260218/
@@ -176,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:galarian-ponyta-turtonator-showcase-february-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[PS] Galarian Ponyta and Turtonator PokéStop Showcase
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/galarian-ponyta-turtonator-showcase-february-2026/
@@ -194,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-february-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RB] Mega Sableye in Mega Raids
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/mega-sableye-in-mega-raids-february-2026/
@@ -210,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solgaleo-in-5-star-raid-battles-february-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RB] Solgaleo in 5-star Raid Battles
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/solgaleo-in-5-star-raid-battles-february-2026/
@@ -227,7 +140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[E] Lunar New Year 2026
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/lunar-new-year-2026/
@@ -244,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-kalos-tainan-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[PGT] Pokémon GO Tour: Kalos - Tainan 2026
 DESCRIPTION:Starts at 01:00 EST\, ends at 09:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-kalos-tainan-2026/
@@ -262,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-night-pokemon-go-tour-kalos-tainan-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[PGT] Mega Night at Pokémon GO Tour: Kalos - Tainan 2026
 DESCRIPTION:Starts at 09:00 EST\, ends at 11:00 EST.\n\nhttps://leekduck.co
  m/events/mega-night-pokemon-go-tour-kalos-tainan-2026/
@@ -281,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-kalos-los-angeles-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[PGT] Pokémon GO Tour: Kalos - Los Angeles 2026
 DESCRIPTION:Starts at 17:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-kalos-los-angeles-2026/
@@ -299,7 +212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-night-pokemon-go-tour-kalos-los-angeles-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[PGT] Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026
 DESCRIPTION:Starts at 02:00 EST\, ends at 04:00 EST.\n\nhttps://leekduck.co
  m/events/mega-night-pokemon-go-tour-kalos-los-angeles-2026/
@@ -318,7 +231,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-february-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RB] Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/lunala-in-5-star-raid-battles-february-2026/
@@ -335,7 +248,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-02-23
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[MM] Unannounced Max Monday
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-02-23/
@@ -352,7 +265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_love-cup-great-league-edition
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[GBL] Great League and Love Cup: Great League Edition | Precious Pa
  ths
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -372,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-24
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[PSH] Totodile Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-02-24/
@@ -389,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260225
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RH] Lunala Raid Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20260225/
@@ -405,7 +318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-kalos
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[E] Road to Kalos
 DESCRIPTION:Starts at 05:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/road-to-kalos/
@@ -422,7 +335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-kalos-global-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[PGT] Pokémon GO Tour: Kalos - Global 2026
 DESCRIPTION:Starts at 15:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-kalos-global-2026/
@@ -440,7 +353,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-road-to-kalos
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[GP] GO Pass: Road to Kalos
 DESCRIPTION:Starts at 15:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-road-to-kalos/
@@ -457,7 +370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-21-precious-paths
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[S] Precious Paths
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/season-21-precious-paths/
@@ -474,7 +387,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-february-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[GP] GO Pass: February
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-february-2026/
@@ -491,7 +404,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_ultra-league_master-league-mega-edition
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League: Mega Edition
   | Precious Paths
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -512,7 +425,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-march-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RB] Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/lunala-in-5-star-raid-battles-march-2026/
@@ -528,7 +441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-absol-in-mega-raids-february-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RB] Mega Absol in Mega Raids
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/mega-absol-in-mega-raids-february-2026/
@@ -544,7 +457,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regigigas-in-shadow-raids-february-march-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RB] Shadow Regigigas in Shadow Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-regigigas-in-shadow-raids-february-march-2026/
@@ -562,7 +475,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-event-march-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[S] Season Event
 DESCRIPTION:Starts at 15:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/season-event-march-2026/
@@ -579,7 +492,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[CD] March Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/march-communityday2026/
@@ -595,7 +508,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:research-day-march-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RD] Research Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/research-day-march-2026/
@@ -612,7 +525,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-march-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/max-battle-day-march-2026/
@@ -629,7 +542,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/raid-day-april-2026/
@@ -646,7 +559,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[CD] April Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/april-communityday2026/
@@ -662,7 +575,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-april-2026/
@@ -679,7 +592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-april-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/max-battle-day-april-2026/
@@ -696,7 +609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RD] Shadow Raid Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-raid-day-may-2026/
@@ -713,7 +626,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/may-communityday2026/
@@ -729,7 +642,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[CD] May Community Day Classic
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/may-communitydayclassic2026/
@@ -745,7 +658,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2026
-DTSTAMP:20260216T020605Z
+DTSTAMP:20260217T020316Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/raid-day-may-2026/
