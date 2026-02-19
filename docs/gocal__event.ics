@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:lunar-new-year-2026
-DTSTAMP:20260218T020717Z
+DTSTAMP:20260219T020550Z
 SUMMARY:[E] Lunar New Year 2026
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/lunar-new-year-2026/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-kalos
-DTSTAMP:20260218T020717Z
+DTSTAMP:20260219T020550Z
 SUMMARY:[E] Road to Kalos
 DESCRIPTION:Starts at 05:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/road-to-kalos/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260218T020717Z
+DTSTAMP:20260219T020550Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-april-2026/
@@ -65,6 +65,23 @@ DTEND:20260418T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Hatch Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:example_event
+DTSTAMP:20260219T020550Z
+SUMMARY:[E] Example Event Template (Auto ToC Demo)
+DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/example_event/
+URL:https://leekduck.com/events/example_event/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/example_event/events-default-img.jpg
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261203
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Example Event Template (Auto ToC Demo)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
