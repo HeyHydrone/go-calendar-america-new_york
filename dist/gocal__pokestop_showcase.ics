@@ -12,26 +12,26 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250522T150000Z
+DTSTART:20250527T015633Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:galarian-ponyta-turtonator-showcase-february-2026
-DTSTAMP:20260219T020550Z
-SUMMARY:[PS] Galarian Ponyta and Turtonator PokéStop Showcase
+UID:meowth-vulpix-alolan-vulpix-showcase-february-2026
+DTSTAMP:20260221T015633Z
+SUMMARY:[PS] Meowth\, Vulpix\, and Alolan Vulpix PokéStop Showcase
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/galarian-ponyta-turtonator-showcase-february-2026/
-URL:https://leekduck.com/events/galarian-ponyta-turtonator-showcase-februar
- y-2026/
+ m/events/meowth-vulpix-alolan-vulpix-showcase-february-2026/
+URL:https://leekduck.com/events/meowth-vulpix-alolan-vulpix-showcase-februa
+ ry-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260216
-DTEND;VALUE=DATE:20260219
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260223
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Galarian Ponyta and Turtonator PokéStop Showcase
+DESCRIPTION:[PS] Meowth\, Vulpix\, and Alolan Vulpix PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
