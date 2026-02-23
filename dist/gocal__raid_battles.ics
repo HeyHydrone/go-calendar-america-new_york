@@ -18,41 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mega-sableye-in-mega-raids-february-2026
-DTSTAMP:20260222T020541Z
-SUMMARY:[RB] Mega Sableye in Mega Raids
-DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
- m/events/mega-sableye-in-mega-raids-february-2026/
-URL:https://leekduck.com/events/mega-sableye-in-mega-raids-february-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20260216
-DTEND;VALUE=DATE:20260221
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Sableye in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:solgaleo-in-5-star-raid-battles-february-2026
-DTSTAMP:20260222T020541Z
-SUMMARY:[RB] Solgaleo in 5-star Raid Battles
-DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
- m/events/solgaleo-in-5-star-raid-battles-february-2026/
-URL:https://leekduck.com/events/solgaleo-in-5-star-raid-battles-february-20
- 26/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2
-DTSTART;VALUE=DATE:20260216
-DTEND;VALUE=DATE:20260221
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Solgaleo in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-february-2026
-DTSTAMP:20260222T020541Z
+DTSTAMP:20260223T020626Z
 SUMMARY:[RB] Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/lunala-in-5-star-raid-battles-february-2026/
@@ -69,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-absol-in-mega-raids-february-2026
-DTSTAMP:20260222T020541Z
+DTSTAMP:20260223T020626Z
 SUMMARY:[RB] Mega Absol in Mega Raids
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/mega-absol-in-mega-raids-february-2026/
@@ -85,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-march-2026
-DTSTAMP:20260222T020541Z
+DTSTAMP:20260223T020626Z
 SUMMARY:[RB] Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/lunala-in-5-star-raid-battles-march-2026/
@@ -101,7 +68,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-absol-in-mega-raids-march-2026
-DTSTAMP:20260222T020541Z
+DTSTAMP:20260223T020626Z
 SUMMARY:[RB] Mega Absol in Mega Raids
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/mega-absol-in-mega-raids-march-2026/
@@ -117,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regigigas-in-shadow-raids-february-march-2026
-DTSTAMP:20260222T020541Z
+DTSTAMP:20260223T020626Z
 SUMMARY:[RB] Shadow Regigigas in Shadow Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-regigigas-in-shadow-raids-february-march-2026/
