@@ -18,41 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:lunala-in-5-star-raid-battles-february-2026
-DTSTAMP:20260223T020626Z
-SUMMARY:[RB] Lunala in 5-star Raid Battles
-DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/lunala-in-5-star-raid-battles-february-2026/
-URL:https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026
- /
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2
-DTSTART;VALUE=DATE:20260221
-DTEND;VALUE=DATE:20260223
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Lunala in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-absol-in-mega-raids-february-2026
-DTSTAMP:20260223T020626Z
-SUMMARY:[RB] Mega Absol in Mega Raids
-DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/mega-absol-in-mega-raids-february-2026/
-URL:https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20260221
-DTEND;VALUE=DATE:20260223
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Absol in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-march-2026
-DTSTAMP:20260223T020626Z
+DTSTAMP:20260224T020324Z
 SUMMARY:[RB] Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/lunala-in-5-star-raid-battles-march-2026/
@@ -68,7 +35,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-absol-in-mega-raids-march-2026
-DTSTAMP:20260223T020626Z
+DTSTAMP:20260224T020324Z
 SUMMARY:[RB] Mega Absol in Mega Raids
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/mega-absol-in-mega-raids-march-2026/
@@ -84,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regigigas-in-shadow-raids-february-march-2026
-DTSTAMP:20260223T020626Z
+DTSTAMP:20260224T020324Z
 SUMMARY:[RB] Shadow Regigigas in Shadow Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-regigigas-in-shadow-raids-february-march-2026/

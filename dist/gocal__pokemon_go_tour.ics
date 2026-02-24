@@ -12,51 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250526T170000Z
+DTSTART:20250530T020324Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-tour-kalos-los-angeles-2026
-DTSTAMP:20260223T020626Z
-SUMMARY:[PGT] Pokémon GO Tour: Kalos - Los Angeles 2026
-DESCRIPTION:Starts at 17:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/pokemon-go-tour-kalos-los-angeles-2026/
-URL:https://leekduck.com/events/pokemon-go-tour-kalos-los-angeles-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-20-pokemon-go-tour-kalos-los-angeles-2026/pokemon-go-tour-kalo
- s-los-angeles-2026.jpg
-DTSTART;VALUE=DATE:20260220
-DTEND;VALUE=DATE:20260223
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Kalos - Los Angeles 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-night-pokemon-go-tour-kalos-los-angeles-2026
-DTSTAMP:20260223T020626Z
-SUMMARY:[PGT] Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026
-DESCRIPTION:Starts at 02:00 EST\, ends at 04:00 EST.\n\nhttps://leekduck.co
- m/events/mega-night-pokemon-go-tour-kalos-los-angeles-2026/
-URL:https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-los-angele
- s-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-20-mega-night-pokemon-go-tour-kalos-los-angeles-2026/mega-nigh
- t-pokemon-go-tour-kalos-los-angeles-2026.jpg
-DTSTART;VALUE=DATE:20260221
-DTEND;VALUE=DATE:20260223
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PGT] Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-tour-kalos-global-2026
-DTSTAMP:20260223T020626Z
+DTSTAMP:20260224T020324Z
 SUMMARY:[PGT] Pokémon GO Tour: Kalos - Global 2026
 DESCRIPTION:Starts at 15:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-kalos-global-2026/

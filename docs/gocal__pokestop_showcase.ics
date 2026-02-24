@@ -12,32 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250527T150000Z
+DTSTART:20250529T150000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:meowth-vulpix-alolan-vulpix-showcase-february-2026
-DTSTAMP:20260223T020626Z
-SUMMARY:[PS] Meowth\, Vulpix\, and Alolan Vulpix PokéStop Showcase
-DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/meowth-vulpix-alolan-vulpix-showcase-february-2026/
-URL:https://leekduck.com/events/meowth-vulpix-alolan-vulpix-showcase-februa
- ry-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20260221
-DTEND;VALUE=DATE:20260223
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Meowth\, Vulpix\, and Alolan Vulpix PokéStop Showcase
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pikachu-showcase-february-2026
-DTSTAMP:20260223T020626Z
+DTSTAMP:20260224T020324Z
 SUMMARY:[PS] Pikachu PokéStop Showcase
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/pikachu-showcase-february-2026/
