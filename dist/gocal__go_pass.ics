@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:go-pass-road-to-kalos
-DTSTAMP:20260224T020324Z
+DTSTAMP:20260225T020533Z
 SUMMARY:[GP] GO Pass: Road to Kalos
 DESCRIPTION:Starts at 15:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-road-to-kalos/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-february-2026
-DTSTAMP:20260224T020324Z
+DTSTAMP:20260225T020533Z
 SUMMARY:[GP] GO Pass: February
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-february-2026/
