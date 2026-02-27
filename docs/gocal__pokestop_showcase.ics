@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250531T150000Z
+DTSTART:20250601T150000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pikachu-showcase-february-2026-wednesday
-DTSTAMP:20260226T020048Z
-SUMMARY:[PS] Pikachu PokéStop Showcase
-DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/pikachu-showcase-february-2026-wednesday/
-URL:https://leekduck.com/events/pikachu-showcase-february-2026-wednesday/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART:20260225T150000Z
-DTEND:20260226T010000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Pikachu PokéStop Showcase
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pikachu-showcase-february-2026-thursday
-DTSTAMP:20260226T020048Z
+DTSTAMP:20260227T020001Z
 SUMMARY:[PS] Pikachu PokéStop Showcase
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/pikachu-showcase-february-2026-thursday/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pikachu-showcase-february-2026-friday
-DTSTAMP:20260226T020048Z
+DTSTAMP:20260227T020001Z
 SUMMARY:[PS] Pikachu PokéStop Showcase
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/pikachu-showcase-february-2026-friday/
