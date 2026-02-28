@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250601T150000Z
+DTSTART:20250602T150000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pikachu-showcase-february-2026-thursday
-DTSTAMP:20260227T020001Z
-SUMMARY:[PS] Pikachu PokéStop Showcase
-DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/pikachu-showcase-february-2026-thursday/
-URL:https://leekduck.com/events/pikachu-showcase-february-2026-thursday/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART:20260226T150000Z
-DTEND:20260227T010000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Pikachu PokéStop Showcase
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pikachu-showcase-february-2026-friday
-DTSTAMP:20260227T020001Z
+DTSTAMP:20260228T015025Z
 SUMMARY:[PS] Pikachu PokéStop Showcase
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/pikachu-showcase-february-2026-friday/
@@ -48,6 +31,24 @@ DTEND:20260228T010000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Pikachu PokéStop Showcase
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos
+DTSTAMP:20260228T015025Z
+SUMMARY:[PS] Xerneas\, Yveltal\, and Furfrou PokéStop Showcase
+DESCRIPTION:Starts at 15:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/
+URL:https://leekduck.com/events/xerneas-yveltal-furfrou-showcase-pokemon-go
+ -tour-kalos/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Xerneas\, Yveltal\, and Furfrou PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
