@@ -18,25 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:go-pass-road-to-kalos
-DTSTAMP:20260302T020326Z
-SUMMARY:[GP] GO Pass: Road to Kalos
-DESCRIPTION:Starts at 15:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
- m/events/go-pass-road-to-kalos/
-URL:https://leekduck.com/events/go-pass-road-to-kalos/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg
-DTSTART;VALUE=DATE:20260223
-DTEND;VALUE=DATE:20260301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GP] GO Pass: Road to Kalos
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-pass-february-2026
-DTSTAMP:20260302T020326Z
+DTSTAMP:20260303T020513Z
 SUMMARY:[GP] GO Pass: February
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-february-2026/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-march-2026
-DTSTAMP:20260302T020326Z
+DTSTAMP:20260303T020513Z
 SUMMARY:[GP] GO Pass: March
 DESCRIPTION:Starts at 15:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-march-2026/
