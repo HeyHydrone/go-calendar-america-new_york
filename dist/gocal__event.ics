@@ -12,32 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250605T150000Z
+DTSTART:20250606T150000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:precious-paths-finale-timed-research
-DTSTAMP:20260303T020513Z
-SUMMARY:[E] Precious Paths Finale Timed Research
-DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
- m/events/precious-paths-finale-timed-research/
-URL:https://leekduck.com/events/precious-paths-finale-timed-research/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-02-precious-paths-finale-timed-research/precious-paths-finale.
- jpg
-DTSTART:20260302T150000Z
-DTEND:20260303T150000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Precious Paths Finale Timed Research
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-30th-anniversary-2026
-DTSTAMP:20260303T020513Z
+DTSTAMP:20260304T015847Z
 SUMMARY:[E] Pokémon 30th Anniversary
 DESCRIPTION:Starts at 15:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-30th-anniversary-2026/
@@ -54,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-anniversary-all-out-2026
-DTSTAMP:20260303T020513Z
+DTSTAMP:20260304T015847Z
 SUMMARY:[E] Pokémon 30th Anniversary: All Out
 DESCRIPTION:Starts at 15:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-30th-anniversary-all-out-2026/
@@ -72,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-pokopia-celebration-event-2026
-DTSTAMP:20260303T020513Z
+DTSTAMP:20260304T015847Z
 SUMMARY:[E] Pokémon Pokopia Celebration Event
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-pokopia-celebration-event-2026/
@@ -90,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bug-out-2026
-DTSTAMP:20260303T020513Z
+DTSTAMP:20260304T015847Z
 SUMMARY:[E] Bug Out 2026
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/bug-out-2026/
@@ -107,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tbd-march-2026-week-3
-DTSTAMP:20260303T020513Z
+DTSTAMP:20260304T015847Z
 SUMMARY:[E] Unannounced Event
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/tbd-march-2026-week-3/
@@ -124,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260303T020513Z
+DTSTAMP:20260304T015847Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-april-2026/
@@ -141,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260303T020513Z
+DTSTAMP:20260304T015847Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/example_event/
