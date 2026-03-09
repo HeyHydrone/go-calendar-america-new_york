@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-30th-anniversary-2026
-DTSTAMP:20260308T020332Z
+DTSTAMP:20260309T020453Z
 SUMMARY:[E] Pokémon 30th Anniversary
 DESCRIPTION:Starts at 15:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-30th-anniversary-2026/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-anniversary-all-out-2026
-DTSTAMP:20260308T020332Z
+DTSTAMP:20260309T020453Z
 SUMMARY:[E] Pokémon 30th Anniversary: All Out
 DESCRIPTION:Starts at 15:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-30th-anniversary-all-out-2026/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-pokopia-celebration-event-2026
-DTSTAMP:20260308T020332Z
+DTSTAMP:20260309T020453Z
 SUMMARY:[E] Pokémon Pokopia Celebration Event
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-pokopia-celebration-event-2026/
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bug-out-2026
-DTSTAMP:20260308T020332Z
+DTSTAMP:20260309T020453Z
 SUMMARY:[E] Bug Out 2026
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/bug-out-2026/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tbd-march-2026-week-3
-DTSTAMP:20260308T020332Z
+DTSTAMP:20260309T020453Z
 SUMMARY:[E] Unannounced Event
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/tbd-march-2026-week-3/
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260308T020332Z
+DTSTAMP:20260309T020453Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-april-2026/
@@ -123,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260308T020332Z
+DTSTAMP:20260309T020453Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/example_event/
