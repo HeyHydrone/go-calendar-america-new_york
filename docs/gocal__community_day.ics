@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250617T015835Z
+DTSTART:20250617T180000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:march-communityday2026
-DTSTAMP:20260314T015835Z
+DTSTAMP:20260315T022335Z
 SUMMARY:[CD] Scorbunny Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/march-communityday2026/
@@ -36,23 +36,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2026
-DTSTAMP:20260314T015835Z
-SUMMARY:[CD] April Community Day
+DTSTAMP:20260315T022335Z
+SUMMARY:[CD] Tinkatink Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/april-communityday2026/
 URL:https://leekduck.com/events/april-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026.jpg
 DTSTART:20260411T180000Z
 DTEND:20260411T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] April Community Day
+DESCRIPTION:[CD] Tinkatink Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2026
-DTSTAMP:20260314T015835Z
+DTSTAMP:20260315T022335Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/may-communityday2026/
@@ -68,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260314T015835Z
+DTSTAMP:20260315T022335Z
 SUMMARY:[CD] May Community Day Classic
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/may-communitydayclassic2026/
