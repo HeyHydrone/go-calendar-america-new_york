@@ -12,30 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250621T020742Z
+DTSTART:20250623T020244Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20260318
-DTSTAMP:20260318T020742Z
-SUMMARY:[RH] Zamazenta (Hero of Many Battles) Raid Hour
-DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
- m/events/raidhour20260318/
-URL:https://leekduck.com/events/raidhour20260318/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20260318T220000Z
-DTEND:20260318T230000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Zamazenta (Hero of Many Battles) Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20260325
-DTSTAMP:20260318T020742Z
+DTSTAMP:20260320T020244Z
 SUMMARY:[RH] Regieleki Raid Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20260325/
@@ -46,6 +30,86 @@ DTEND:20260325T230000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Regieleki Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260401
+DTSTAMP:20260320T020244Z
+SUMMARY:[RH] Regidrago Raid Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/raidhour20260401/
+URL:https://leekduck.com/events/raidhour20260401/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260401T220000Z
+DTEND:20260401T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Regidrago Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260408
+DTSTAMP:20260320T020244Z
+SUMMARY:[RH] Kyogre Raid Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/raidhour20260408/
+URL:https://leekduck.com/events/raidhour20260408/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260408T220000Z
+DTEND:20260408T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Kyogre Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260415
+DTSTAMP:20260320T020244Z
+SUMMARY:[RH] Groudon Raid Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/raidhour20260415/
+URL:https://leekduck.com/events/raidhour20260415/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260415T220000Z
+DTEND:20260415T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Groudon Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260422
+DTSTAMP:20260320T020244Z
+SUMMARY:[RH] Tapu Koko Raid Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/raidhour20260422/
+URL:https://leekduck.com/events/raidhour20260422/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260422T220000Z
+DTEND:20260422T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Tapu Koko Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260429
+DTSTAMP:20260320T020244Z
+SUMMARY:[RH] Tapu Lele Raid Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/raidhour20260429/
+URL:https://leekduck.com/events/raidhour20260429/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260429T220000Z
+DTEND:20260429T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Tapu Lele Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
