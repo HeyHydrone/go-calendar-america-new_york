@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250620T140000Z
+DTSTART:20250628T020743Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bug-out-2026
-DTSTAMP:20260324T020207Z
-SUMMARY:[E] Bug Out 2026
-DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
- m/events/bug-out-2026/
-URL:https://leekduck.com/events/bug-out-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-17-bug-out-2026/bug-out-2026.jpg
-DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260324
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Bug Out 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:a-shockingly-good-time-2026
-DTSTAMP:20260324T020207Z
+DTSTAMP:20260325T020743Z
 SUMMARY:[E] A Shockingly Good Time
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/a-shockingly-good-time-2026/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260324T020207Z
+DTSTAMP:20260325T020743Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-april-2026/
@@ -70,13 +53,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sustainability-week-2026
-DTSTAMP:20260324T020207Z
+DTSTAMP:20260325T020743Z
 SUMMARY:[E] Sustainability Week 2026
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/sustainability-week-2026/
 URL:https://leekduck.com/events/sustainability-week-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260421
 BEGIN:VALARM
@@ -87,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steeled-resolve-2026
-DTSTAMP:20260324T020207Z
+DTSTAMP:20260325T020743Z
 SUMMARY:[E] Steeled Resolve
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/steeled-resolve-2026/
@@ -104,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260324T020207Z
+DTSTAMP:20260325T020743Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/example_event/

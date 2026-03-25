@@ -9,20 +9,28 @@ X-WR-CALDESC:All Pokémon GO Team GO Rocket events\, in your local time\, a
  uto-updated and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20250628T020743Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:precious-pals-taken-over-2026
-DTSTAMP:20260126T003619Z
-SUMMARY:[TGR] Precious Pals: Taken Over
-DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /precious-pals-taken-over-2026/
-URL:https://leekduck.com/events/precious-pals-taken-over-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-01-23-precious-pals-taken-over-2026/precious-pals-taken-over.jpg
-DTSTART;VALUE=DATE:20260123
-DTEND;VALUE=DATE:20260125
+UID:steeled-resolve-taken-over-2026
+DTSTAMP:20260325T020743Z
+SUMMARY:[TGR] Steeled Resolve: Taken Over
+DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/steeled-resolve-taken-over-2026/
+URL:https://leekduck.com/events/steeled-resolve-taken-over-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260505
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TGR] Precious Pals: Taken Over
+DESCRIPTION:[TGR] Steeled Resolve: Taken Over
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
