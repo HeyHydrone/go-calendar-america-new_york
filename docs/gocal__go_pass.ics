@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:go-pass-march-2026
-DTSTAMP:20260403T021306Z
+DTSTAMP:20260404T020544Z
 SUMMARY:[GP] GO Pass: March
 DESCRIPTION:Starts at 15:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-march-2026/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-april-2026
-DTSTAMP:20260403T021306Z
+DTSTAMP:20260404T020544Z
 SUMMARY:[GP] GO Pass: April
 DESCRIPTION:Starts at 14:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-april-2026/
