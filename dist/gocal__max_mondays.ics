@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250724T023752Z
+DTSTART:20250724T100000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2026-04-20
-DTSTAMP:20260420T023752Z
+DTSTAMP:20260421T023241Z
 SUMMARY:[MM] Dynamax Regirock during Max Monday
 DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-04-20/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-04-27
-DTSTAMP:20260420T023752Z
+DTSTAMP:20260421T023241Z
 SUMMARY:[MM] Dynamax Shuckle during Max Monday
 DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-04-27/
@@ -48,6 +48,74 @@ DTEND:20260428T010000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dynamax Shuckle during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-05-04
+DTSTAMP:20260421T023241Z
+SUMMARY:[MM] Dynamax Cottonee during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-05-04/
+URL:https://leekduck.com/events/max-mondays-2026-05-04/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260504T100000Z
+DTEND:20260505T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Cottonee during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-05-11
+DTSTAMP:20260421T023241Z
+SUMMARY:[MM] Dynamax Growlithe during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-05-11/
+URL:https://leekduck.com/events/max-mondays-2026-05-11/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260511T100000Z
+DTEND:20260512T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Growlithe during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-05-18
+DTSTAMP:20260421T023241Z
+SUMMARY:[MM] Dynamax Registeel during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-05-18/
+URL:https://leekduck.com/events/max-mondays-2026-05-18/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260518T100000Z
+DTEND:20260519T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Registeel during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-05-25
+DTSTAMP:20260421T023241Z
+SUMMARY:[MM] Dynamax Combee during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-05-25/
+URL:https://leekduck.com/events/max-mondays-2026-05-25/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260525T100000Z
+DTEND:20260526T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Combee during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
