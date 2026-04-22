@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250718T140000Z
+DTSTART:20250726T023103Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sustainability-week-2026
-DTSTAMP:20260421T023241Z
-SUMMARY:[E] Sustainability Week 2026
-DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
- m/events/sustainability-week-2026/
-URL:https://leekduck.com/events/sustainability-week-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260421
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Sustainability Week 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:steeled-resolve-2026
-DTSTAMP:20260421T023241Z
+DTSTAMP:20260422T023103Z
 SUMMARY:[E] Steeled Resolve
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/steeled-resolve-2026/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steeled-resolve-taken-over-2026
-DTSTAMP:20260421T023241Z
+DTSTAMP:20260422T023103Z
 SUMMARY:[E] Steeled Resolve: Taken Over
 DESCRIPTION:Starts at 04:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/steeled-resolve-taken-over-2026/
@@ -71,24 +54,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-marathon-2026
-DTSTAMP:20260421T023241Z
-SUMMARY:[E] Spring Marathon
+DTSTAMP:20260422T023103Z
+SUMMARY:[E] Spring Marathon 2026
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/spring-marathon-2026/
 URL:https://leekduck.com/events/spring-marathon-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-05-12-spring-marathon-2026/spring-marathon-2026.jpg
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260519
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Spring Marathon
+DESCRIPTION:[E] Spring Marathon 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260421T023241Z
+DTSTAMP:20260422T023103Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/example_event/
