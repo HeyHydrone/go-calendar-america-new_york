@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250730T024012Z
+DTSTART:20250731T024215Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-tokyo
-DTSTAMP:20260426T024012Z
+DTSTAMP:20260427T024215Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Tokyo
 DESCRIPTION:Starts at 01:00 EST\, ends at 11:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-fest-2026-tokyo/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-chicago
-DTSTAMP:20260426T024012Z
+DTSTAMP:20260427T024215Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Chicago
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-fest-2026-chicago/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-copenhagen
-DTSTAMP:20260426T024012Z
+DTSTAMP:20260427T024215Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Copenhagen
 DESCRIPTION:Starts at 07:00 EST\, ends at 16:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-fest-2026-copenhagen/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-global
-DTSTAMP:20260426T024012Z
+DTSTAMP:20260427T024215Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Global
 DESCRIPTION:Starts at 14:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-fest-2026-global/
