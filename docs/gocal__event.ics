@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:steeled-resolve-2026
-DTSTAMP:20260503T025003Z
+DTSTAMP:20260504T024711Z
 SUMMARY:[E] Steeled Resolve 2026
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/steeled-resolve-2026/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steeled-resolve-taken-over-2026
-DTSTAMP:20260503T025003Z
+DTSTAMP:20260504T024711Z
 SUMMARY:[E] Steeled Resolve: Taken Over
 DESCRIPTION:Starts at 04:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/steeled-resolve-taken-over-2026/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-marathon-2026
-DTSTAMP:20260503T025003Z
+DTSTAMP:20260504T024711Z
 SUMMARY:[E] Spring Marathon 2026
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/spring-marathon-2026/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-event-july-2026
-DTSTAMP:20260503T025003Z
+DTSTAMP:20260504T024711Z
 SUMMARY:[E] Weekend Event
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/weekend-event-july-2026/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260503T025003Z
+DTSTAMP:20260504T024711Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-august-2026/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260503T025003Z
+DTSTAMP:20260504T024711Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/example_event/
