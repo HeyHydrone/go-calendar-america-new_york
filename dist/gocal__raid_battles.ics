@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:shadow-latios-in-shadow-raids-april-may-2026
-DTSTAMP:20260505T023928Z
+DTSTAMP:20260506T024526Z
 SUMMARY:[RB] Shadow Latios in Shadow Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-latios-in-shadow-raids-april-may-2026/
@@ -37,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-april-2026
-DTSTAMP:20260505T023928Z
+DTSTAMP:20260506T024526Z
 SUMMARY:[RB] Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/mega-banette-in-mega-raids-april-2026/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-lele-in-5-star-raid-battles-april-2026
-DTSTAMP:20260505T023928Z
+DTSTAMP:20260506T024526Z
 SUMMARY:[RB] Tapu Lele in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/tapu-lele-in-5-star-raid-battles-april-2026/
@@ -70,8 +70,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:nihilego-in-5-star-raid-battles-may-2026
+DTSTAMP:20260506T024526Z
+SUMMARY:[RB] Nihilego in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
+ m/events/nihilego-in-5-star-raid-battles-may-2026/
+URL:https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/nihilego-raid-bo
+ ss.jpg
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260513
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Nihilego in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mega-camerupt-in-mega-raids-may-2026
-DTSTAMP:20260505T023928Z
+DTSTAMP:20260506T024526Z
 SUMMARY:[RB] Mega Camerupt in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/mega-camerupt-in-mega-raids-may-2026/
@@ -86,27 +103,10 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nihilego-in-5-star-raid-battles-may-2026
-DTSTAMP:20260505T023928Z
-SUMMARY:[RB] Nihilego in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
- m/events/nihilego-in-5-star-raid-battles-may-2026/
-URL:https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260513
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Nihilego in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026
-DTSTAMP:20260505T023928Z
+DTSTAMP:20260506T024526Z
 SUMMARY:[RB] Buzzwole\, Pheromosa\, and Xurkitree in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
+DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026/
 URL:https://leekduck.com/events/buzzwole-pheromosa-xurkitree-in-5-star-raid
  -battles-may-2026/
@@ -123,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-may-2026
-DTSTAMP:20260505T023928Z
+DTSTAMP:20260506T024526Z
 SUMMARY:[RB] Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/mega-glalie-in-mega-raids-may-2026/
@@ -138,8 +138,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:tapu-bulu-in-5-star-raid-battles-may-2026
+DTSTAMP:20260506T024526Z
+SUMMARY:[RB] Tapu Bulu in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
+ m/events/tapu-bulu-in-5-star-raid-battles-may-2026/
+URL:https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260527
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Tapu Bulu in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-may-2026
-DTSTAMP:20260505T023928Z
+DTSTAMP:20260506T024526Z
 SUMMARY:[RB] Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/mega-altaria-in-mega-raids-may-2026/
@@ -154,25 +171,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tapu-bulu-in-5-star-raid-battles-may-2026
-DTSTAMP:20260505T023928Z
-SUMMARY:[RB] Tapu Bulu in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
- m/events/tapu-bulu-in-5-star-raid-battles-may-2026/
-URL:https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/
+UID:tapu-fini-in-5-star-raid-battles-may-june-2026
+DTSTAMP:20260506T024526Z
+SUMMARY:[RB] Tapu Fini in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
+ m/events/tapu-fini-in-5-star-raid-battles-may-june-2026/
+URL:https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2
+ 026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260527
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260603
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Tapu Bulu in 5-star Raid Battles
+DESCRIPTION:[RB] Tapu Fini in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-cresselia-in-shadow-raids-may-june-2026
-DTSTAMP:20260505T023928Z
+DTSTAMP:20260506T024526Z
 SUMMARY:[RB] Shadow Cresselia in Shadow Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-cresselia-in-shadow-raids-may-june-2026/
@@ -190,7 +208,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-medicham-in-mega-raids-may-june-2026
-DTSTAMP:20260505T023928Z
+DTSTAMP:20260506T024526Z
 SUMMARY:[RB] Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/mega-medicham-in-mega-raids-may-june-2026/
@@ -201,24 +219,6 @@ DTEND;VALUE=DATE:20260603
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Mega Medicham in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tapu-fini-in-5-star-raid-battles-may-june-2026
-DTSTAMP:20260505T023928Z
-SUMMARY:[RB] Tapu Fini in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
- m/events/tapu-fini-in-5-star-raid-battles-may-june-2026/
-URL:https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2
- 026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;VALUE=DATE:20260527
-DTEND;VALUE=DATE:20260603
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Tapu Fini in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
