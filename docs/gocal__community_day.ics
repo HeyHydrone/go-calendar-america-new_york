@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250812T180000Z
+DTSTART:20250815T025236Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:may-communityday2026
-DTSTAMP:20260511T032738Z
-SUMMARY:[CD] Lechonk Community Day
-DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
- m/events/may-communityday2026/
-URL:https://leekduck.com/events/may-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-05-09-may-communityday2026/lechonk-may-cd-placeholder.jpg
-DTSTART:20260509T180000Z
-DTEND:20260509T210000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Lechonk Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260511T032738Z
+DTSTAMP:20260512T025236Z
 SUMMARY:[CD] Deino Community Day Classic
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/may-communitydayclassic2026/
@@ -54,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:june-communityday2026
-DTSTAMP:20260511T032738Z
+DTSTAMP:20260512T025236Z
 SUMMARY:[CD] June Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/june-communityday2026/
@@ -70,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260511T032738Z
+DTSTAMP:20260512T025236Z
 SUMMARY:[CD] July Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/july-communityday2026/
@@ -86,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260511T032738Z
+DTSTAMP:20260512T025236Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/august-communityday2026/
