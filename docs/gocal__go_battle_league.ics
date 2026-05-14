@@ -12,36 +12,15 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250808T200000Z
+DTSTART:20250815T200000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition
-DTSTAMP:20260513T025721Z
-SUMMARY:[GBL] Ultra League and Jungle Cup: Great League Edition | Memories 
- in Motion
-DESCRIPTION:Starts at 20:00 EST\, ends at 20:00 EST.\n\nhttps://leekduck.co
- m/events/gbl-memories-in-motion_ultra-league_jungle-cup-great-league-editi
- on/
-URL:https://leekduck.com/events/gbl-memories-in-motion_ultra-league_jungle-
- cup-great-league-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -ultra-league-machamp-swampert.jpg
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260512
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Ultra League and Jungle Cup: Great League Edition | Memor
- ies in Motion
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great
  -league-edition
-DTSTAMP:20260513T025721Z
+DTSTAMP:20260514T032221Z
 SUMMARY:[GBL] Master League and Catch Cup: Memories in Motion: Great League
   Edition | Memories in Motion
 DESCRIPTION:Starts at 20:00 EST\, ends at 20:00 EST.\n\nhttps://leekduck.co
@@ -62,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-3
-DTSTAMP:20260513T025721Z
+DTSTAMP:20260514T032221Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Memories in
   Motion
 DESCRIPTION:Starts at 20:00 EST\, ends at 20:00 EST.\n\nhttps://leekduck.co
@@ -83,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-4
-DTSTAMP:20260513T025721Z
+DTSTAMP:20260514T032221Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Memories in
   Motion
 DESCRIPTION:Starts at 20:00 EST\, ends at 20:00 EST.\n\nhttps://leekduck.co
