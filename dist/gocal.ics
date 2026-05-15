@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:go-tour-fairy-type-timed-research
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[R] [Promo Code] GO Tour Fairy Type Timed Research
 DESCRIPTION:Starts at 00:00 EST\, ends at 05:00 EST.\n\nhttps://leekduck.co
  m/events/go-tour-fairy-type-timed-research/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nihilego-in-5-star-raid-battles-may-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RB] Nihilego in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/nihilego-in-5-star-raid-battles-may-2026/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-camerupt-in-mega-raids-may-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RB] Mega Camerupt in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/mega-camerupt-in-mega-raids-may-2026/
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260513
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RH] Buzzwole\, Pheromosa\, and Xurkitree Raid Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20260513/
@@ -85,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[CD] Deino Community Day Classic
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/may-communitydayclassic2026/
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-marathon-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[E] Spring Marathon 2026
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/spring-marathon-2026/
@@ -120,7 +120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-05-18
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[MM] Dynamax Registeel during Max Monday
 DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-05-18/
@@ -138,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great
  -league-edition
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[GBL] Master League and Catch Cup: Memories in Motion: Great League
   Edition | Memories in Motion
 DESCRIPTION:Starts at 20:00 EST\, ends at 20:00 EST.\n\nhttps://leekduck.co
@@ -159,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RB] Buzzwole\, Pheromosa\, and Xurkitree in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026/
@@ -178,7 +178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-may-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RB] Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/mega-glalie-in-mega-raids-may-2026/
@@ -194,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260520
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RH] Tapu Bulu Raid Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20260520/
@@ -210,7 +210,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:falinks-super-mega-raid-day-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RD] Falinks Super Mega Raid Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/falinks-super-mega-raid-day-2026/
@@ -228,7 +228,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-05-25
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[MM] Dynamax Combee during Max Monday
 DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-05-25/
@@ -245,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-3
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Memories in
   Motion
 DESCRIPTION:Starts at 20:00 EST\, ends at 20:00 EST.\n\nhttps://leekduck.co
@@ -266,7 +266,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-bulu-in-5-star-raid-battles-may-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RB] Tapu Bulu in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/tapu-bulu-in-5-star-raid-battles-may-2026/
@@ -283,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-may-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RB] Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/mega-altaria-in-mega-raids-may-2026/
@@ -299,7 +299,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260527
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RH] Tapu Fini Raid Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20260527/
@@ -315,7 +315,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-tokyo
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Tokyo
 DESCRIPTION:Starts at 01:00 EST\, ends at 11:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-fest-2026-tokyo/
@@ -332,7 +332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-22-memories-in-motion
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[S] Memories in Motion
 DESCRIPTION:Starts at 15:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/season-22-memories-in-motion/
@@ -350,7 +350,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-may-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[GP] GO Pass: May
 DESCRIPTION:Starts at 14:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-may-2026/
@@ -367,7 +367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-4
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Memories in
   Motion
 DESCRIPTION:Starts at 20:00 EST\, ends at 20:00 EST.\n\nhttps://leekduck.co
@@ -388,7 +388,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-fini-in-5-star-raid-battles-may-june-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RB] Tapu Fini in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/tapu-fini-in-5-star-raid-battles-may-june-2026/
@@ -406,7 +406,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-cresselia-in-shadow-raids-may-june-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RB] Shadow Cresselia in Shadow Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-cresselia-in-shadow-raids-may-june-2026/
@@ -424,7 +424,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-medicham-in-mega-raids-may-june-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RB] Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 10:00 EST.\n\nhttps://leekduck.co
  m/events/mega-medicham-in-mega-raids-may-june-2026/
@@ -440,7 +440,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-chicago
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Chicago
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-fest-2026-chicago/
@@ -457,7 +457,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-copenhagen
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Copenhagen
 DESCRIPTION:Starts at 07:00 EST\, ends at 16:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-fest-2026-copenhagen/
@@ -475,7 +475,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:june-communityday2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[CD] June Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/june-communityday2026/
@@ -491,7 +491,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-june-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/raid-day-june-2026/
@@ -508,7 +508,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[CD] July Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/july-communityday2026/
@@ -524,7 +524,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-global
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Global
 DESCRIPTION:Starts at 14:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-fest-2026-global/
@@ -542,7 +542,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-event-july-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[E] Weekend Event
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/weekend-event-july-2026/
@@ -559,7 +559,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-august-2026/
@@ -576,7 +576,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/august-communityday2026/
@@ -592,7 +592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2026
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/raid-day-august-2026/
@@ -609,7 +609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260514T032221Z
+DTSTAMP:20260515T032544Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/example_event/
