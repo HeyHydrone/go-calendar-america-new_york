@@ -9,17 +9,26 @@ X-WR-CALDESC:All Pokémon GO Update events\, in your local time\, auto-upda
  ted and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20250830T034157Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:community-day-voting-august
-DTSTAMP:20250609T003227Z
+UID:community-day-voting-august-2026
+DTSTAMP:20260527T034157Z
 SUMMARY:[U] Community Day Vote for August
-DESCRIPTION:Starts at 01:00\, ends at 01:00.\n\nhttps://leekduck.com/events
- /community-day-voting-august/
-URL:https://leekduck.com/events/community-day-voting-august/
+DESCRIPTION:Starts at 01:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/community-day-voting-august-2026/
+URL:https://leekduck.com/events/community-day-voting-august-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-07-community-day-voting-august/august-community-day-vote.jpg
-DTSTART:20250608T010000
-DTEND:20250609T010000
+ 026/2026-05-30-community-day-voting-august-2026/august-community-day-vote-
+ 2026.jpg
+DTSTART:20260531T010000Z
+DTEND:20260601T010000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[U] Community Day Vote for August

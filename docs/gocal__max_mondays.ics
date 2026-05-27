@@ -12,25 +12,93 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250828T100000Z
+DTSTART:20250830T034157Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2026-05-25
-DTSTAMP:20260526T032822Z
-SUMMARY:[MM] Dynamax Combee during Max Monday
+UID:max-mondays-2026-06-01
+DTSTAMP:20260527T034157Z
+SUMMARY:[MM] Dynamax Inkay during Max Monday
 DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/max-mondays-2026-05-25/
-URL:https://leekduck.com/events/max-mondays-2026-05-25/
+ m/events/max-mondays-2026-06-01/
+URL:https://leekduck.com/events/max-mondays-2026-06-01/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART:20260525T100000Z
-DTEND:20260526T010000Z
+DTSTART:20260601T100000Z
+DTEND:20260602T010000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Combee during Max Monday
+DESCRIPTION:[MM] Dynamax Inkay during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-06-08
+DTSTAMP:20260527T034157Z
+SUMMARY:[MM] Dynamax Electabuzz during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-06-08/
+URL:https://leekduck.com/events/max-mondays-2026-06-08/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260608T100000Z
+DTEND:20260609T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Electabuzz during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-06-15
+DTSTAMP:20260527T034157Z
+SUMMARY:[MM] Dynamax Roggenrola during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-06-15/
+URL:https://leekduck.com/events/max-mondays-2026-06-15/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260615T100000Z
+DTEND:20260616T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Roggenrola during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-06-22
+DTSTAMP:20260527T034157Z
+SUMMARY:[MM] Dynamax Hoothoot during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-06-22/
+URL:https://leekduck.com/events/max-mondays-2026-06-22/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260622T100000Z
+DTEND:20260623T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Hoothoot during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-06-29
+DTSTAMP:20260527T034157Z
+SUMMARY:[MM] Dynamax Pidove during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-06-29/
+URL:https://leekduck.com/events/max-mondays-2026-06-29/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260629T100000Z
+DTEND:20260630T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Pidove during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
