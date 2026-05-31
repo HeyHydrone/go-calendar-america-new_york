@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:season-22-memories-in-motion
-DTSTAMP:20260530T025720Z
+DTSTAMP:20260531T034334Z
 SUMMARY:[S] Memories in Motion
 DESCRIPTION:Starts at 15:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/season-22-memories-in-motion/
@@ -37,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-23-forever-forward
-DTSTAMP:20260530T025720Z
+DTSTAMP:20260531T034334Z
 SUMMARY:[S] Forever Forward
 DESCRIPTION:Starts at 14:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/season-23-forever-forward/
