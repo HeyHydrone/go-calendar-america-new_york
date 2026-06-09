@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sparks-caretaking-quest
-DTSTAMP:20260608T035619Z
+DTSTAMP:20260609T032553Z
 SUMMARY:[E] Spark's Caretaking Quest
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/sparks-caretaking-quest/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:candelas-quest-for-victory
-DTSTAMP:20260608T035619Z
+DTSTAMP:20260609T032553Z
 SUMMARY:[E] Candela's Quest for Victory
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/candelas-quest-for-victory/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:flying-taxi-2026
-DTSTAMP:20260608T035619Z
+DTSTAMP:20260609T032553Z
 SUMMARY:[E] Flying Taxi 2026
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/flying-taxi-2026/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:flying-taxi-taken-over-2026
-DTSTAMP:20260608T035619Z
+DTSTAMP:20260609T032553Z
 SUMMARY:[E] Flying Taxi: Taken Over
 DESCRIPTION:Starts at 04:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/flying-taxi-taken-over-2026/
@@ -87,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-event-july-2026
-DTSTAMP:20260608T035619Z
+DTSTAMP:20260609T032553Z
 SUMMARY:[E] Weekend Event
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/weekend-event-july-2026/
@@ -104,7 +104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260608T035619Z
+DTSTAMP:20260609T032553Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-august-2026/
@@ -121,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260608T035619Z
+DTSTAMP:20260609T032553Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/example_event/
