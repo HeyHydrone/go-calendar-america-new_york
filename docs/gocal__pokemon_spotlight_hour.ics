@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250919T040118Z
+DTSTART:20250920T040216Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-06-18
-DTSTAMP:20260616T040118Z
+DTSTAMP:20260617T040216Z
 SUMMARY:[PSH] Swinub Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-06-18/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-06-25
-DTSTAMP:20260616T040118Z
+DTSTAMP:20260617T040216Z
 SUMMARY:[PSH] Wingull Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-06-25/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-07-02
-DTSTAMP:20260616T040118Z
+DTSTAMP:20260617T040216Z
 SUMMARY:[PSH] Pidgey Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-07-02/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-07-16
-DTSTAMP:20260616T040118Z
+DTSTAMP:20260617T040216Z
 SUMMARY:[PSH] Zubat Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-07-16/
@@ -87,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-07-23
-DTSTAMP:20260616T040118Z
+DTSTAMP:20260617T040216Z
 SUMMARY:[PSH] Eevee Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-07-23/
@@ -104,7 +104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-07-30
-DTSTAMP:20260616T040118Z
+DTSTAMP:20260617T040216Z
 SUMMARY:[PSH] Bidoof Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-07-30/
