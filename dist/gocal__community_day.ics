@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:june-communityday2026
-DTSTAMP:20260621T040753Z
+DTSTAMP:20260622T040833Z
 SUMMARY:[CD] Frigibax Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/june-communityday2026/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260621T040753Z
+DTSTAMP:20260622T040833Z
 SUMMARY:[CD] Sobble Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/july-communityday2026/
@@ -52,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260621T040753Z
+DTSTAMP:20260622T040833Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/august-communityday2026/
