@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250920T140000Z
+DTSTART:20250926T033026Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:choose-your-path-fossil-fun-2026
-DTSTAMP:20260622T040833Z
-SUMMARY:[CYP] Choose Your Path: Fossil Fun
-DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
- m/events/choose-your-path-fossil-fun-2026/
-URL:https://leekduck.com/events/choose-your-path-fossil-fun-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/choose-your-path
- -evergreen.jpg
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260622
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CYP] Choose Your Path: Fossil Fun
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:choose-your-path-charged-embers-2026
-DTSTAMP:20260622T040833Z
+DTSTAMP:20260623T033026Z
 SUMMARY:[CYP] Choose Your Path: Charged Embers
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/choose-your-path-charged-embers-2026/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-fairy-trail-2026
-DTSTAMP:20260622T040833Z
+DTSTAMP:20260623T033026Z
 SUMMARY:[CYP] Choose Your Path: Fairy Trail
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/choose-your-path-fairy-trail-2026/
@@ -70,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-venom-and-vines-2026
-DTSTAMP:20260622T040833Z
+DTSTAMP:20260623T033026Z
 SUMMARY:[CYP] Choose Your Path: Venom and Vines
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/choose-your-path-venom-and-vines-2026/

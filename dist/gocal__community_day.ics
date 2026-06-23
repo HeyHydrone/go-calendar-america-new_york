@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250923T180000Z
+DTSTART:20250926T033026Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:june-communityday2026
-DTSTAMP:20260622T040833Z
-SUMMARY:[CD] Frigibax Community Day
-DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
- m/events/june-communityday2026/
-URL:https://leekduck.com/events/june-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-06-20-june-communityday2026/frigibax-cd-placeholder.jpg
-DTSTART:20260620T180000Z
-DTEND:20260620T210000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Frigibax Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260622T040833Z
+DTSTAMP:20260623T033026Z
 SUMMARY:[CD] Sobble Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/july-communityday2026/
@@ -52,7 +35,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260622T040833Z
+DTSTAMP:20260623T033026Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/august-communityday2026/
