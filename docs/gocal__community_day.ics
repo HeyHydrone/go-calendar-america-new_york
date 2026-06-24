@@ -12,19 +12,20 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250926T033026Z
+DTSTART:20250927T033042Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260623T033026Z
+DTSTAMP:20260624T033042Z
 SUMMARY:[CD] Sobble Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/july-communityday2026/
 URL:https://leekduck.com/events/july-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg
 DTSTART:20260704T180000Z
 DTEND:20260704T210000Z
 BEGIN:VALARM
@@ -35,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260623T033026Z
+DTSTAMP:20260624T033042Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/august-communityday2026/
