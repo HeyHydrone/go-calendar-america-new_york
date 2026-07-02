@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251004T034322Z
+DTSTART:20251005T032955Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:10th-anniversary-party
-DTSTAMP:20260701T034322Z
+DTSTAMP:20260702T032955Z
 SUMMARY:[E] 10th Anniversary Party
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/10th-anniversary-party/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-of-legends-2026
-DTSTAMP:20260701T034322Z
+DTSTAMP:20260702T032955Z
 SUMMARY:[E] Road of Legends
 DESCRIPTION:Starts at 04:01 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/road-of-legends-2026/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:special-anniversary-pikachu-celebration-2026
-DTSTAMP:20260701T034322Z
+DTSTAMP:20260702T032955Z
 SUMMARY:[E] Special Anniversary Pikachu Celebration
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/special-anniversary-pikachu-celebration-2026/
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:happy-birthday-professor-willow-2026
-DTSTAMP:20260701T034322Z
+DTSTAMP:20260702T032955Z
 SUMMARY:[E] Happy Birthday\, Professor Willow!
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/happy-birthday-professor-willow-2026/
@@ -90,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ozone-ascent-2026
-DTSTAMP:20260701T034322Z
+DTSTAMP:20260702T032955Z
 SUMMARY:[E] Ozone Ascent
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/ozone-ascent-2026/
@@ -107,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260701T034322Z
+DTSTAMP:20260702T032955Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-august-2026/
@@ -124,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260701T034322Z
+DTSTAMP:20260702T032955Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/example_event/
