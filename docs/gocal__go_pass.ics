@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:go-pass-june-2026
-DTSTAMP:20260706T032605Z
+DTSTAMP:20260707T031652Z
 SUMMARY:[GP] GO Pass: June
 DESCRIPTION:Starts at 14:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-june-2026/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-july-2026
-DTSTAMP:20260706T032605Z
+DTSTAMP:20260707T031652Z
 SUMMARY:[GP] GO Pass: July
 DESCRIPTION:Starts at 14:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-july-2026/
