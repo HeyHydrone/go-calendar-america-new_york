@@ -12,24 +12,25 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251010T031652Z
+DTSTART:20251011T023445Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260707T031652Z
-SUMMARY:[CD] August Community Day
+DTSTAMP:20260708T023445Z
+SUMMARY:[CD] Nickit Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/august-communityday2026/
 URL:https://leekduck.com/events/august-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-08-16-august-communityday2026/nickit-august-cd-2026.jpg
 DTSTART:20260816T180000Z
 DTEND:20260816T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] August Community Day
+DESCRIPTION:[CD] Nickit Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
