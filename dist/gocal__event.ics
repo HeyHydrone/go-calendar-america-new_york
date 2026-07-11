@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:road-of-legends-2026
-DTSTAMP:20260710T025552Z
+DTSTAMP:20260711T023230Z
 SUMMARY:[E] Road of Legends
 DESCRIPTION:Starts at 04:01 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/road-of-legends-2026/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:special-anniversary-pikachu-celebration-2026
-DTSTAMP:20260710T025552Z
+DTSTAMP:20260711T023230Z
 SUMMARY:[E] Special Anniversary Pikachu Celebration
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/special-anniversary-pikachu-celebration-2026/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:happy-birthday-professor-willow-2026
-DTSTAMP:20260710T025552Z
+DTSTAMP:20260711T023230Z
 SUMMARY:[E] Happy Birthday\, Professor Willow!
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/happy-birthday-professor-willow-2026/
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ozone-ascent-2026
-DTSTAMP:20260710T025552Z
+DTSTAMP:20260711T023230Z
 SUMMARY:[E] Ozone Ascent
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/ozone-ascent-2026/
@@ -90,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260710T025552Z
+DTSTAMP:20260711T023230Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-august-2026/
