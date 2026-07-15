@@ -12,25 +12,26 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250729T180000Z
+DTSTART:20251018T022205Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:replay-go-bigger-2026
-DTSTAMP:20260427T024215Z
-SUMMARY:[MB] Replay: GO Bigger
+UID:gigantamax-rillaboom-max-battle-day-2026
+DTSTAMP:20260715T022205Z
+SUMMARY:[MB] Gigantamax Rillaboom Max Battle Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
- m/events/replay-go-bigger-2026/
-URL:https://leekduck.com/events/replay-go-bigger-2026/
+ m/events/gigantamax-rillaboom-max-battle-day-2026/
+URL:https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-25-replay-go-bigger-2026/replay-go-bigger-2026.jpg
-DTSTART:20260425T180000Z
-DTEND:20260425T210000Z
+ 026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillabo
+ om-max-battle-day.jpg
+DTSTART:20260801T180000Z
+DTEND:20260801T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Replay: GO Bigger
+DESCRIPTION:[MB] Gigantamax Rillaboom Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
