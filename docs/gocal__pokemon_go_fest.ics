@@ -12,26 +12,27 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251014T140000Z
+DTSTART:20251019T022952Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-fest-2026-global
-DTSTAMP:20260713T024026Z
-SUMMARY:[PGF] Pokémon GO Fest 2026: Global
+UID:pokemon-go-fest-2026-global-sunday-raid-makeup
+DTSTAMP:20260716T022952Z
+SUMMARY:[PGF] GO Fest 2026 Sunday Raid Makeup
 DESCRIPTION:Starts at 14:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
- m/events/pokemon-go-fest-2026-global/
-URL:https://leekduck.com/events/pokemon-go-fest-2026-global/
+ m/events/pokemon-go-fest-2026-global-sunday-raid-makeup/
+URL:https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-mak
+ eup/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jpg
- ?v2
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
+ 026/2026-07-26-pokemon-go-fest-2026-global-sunday-raid-makeup/pokemon-go-f
+ est-2026-global-sunday-raid-makeup.jpg
+DTSTART:20260726T140000Z
+DTEND:20260726T230000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGF] Pokémon GO Fest 2026: Global
+DESCRIPTION:[PGF] GO Fest 2026 Sunday Raid Makeup
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
