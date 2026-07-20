@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raichu-super-mega-raid-day-2026
-DTSTAMP:20260719T023534Z
+DTSTAMP:20260720T025031Z
 SUMMARY:[RD] Raichu Super Mega Raid Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/raichu-super-mega-raid-day-2026/
@@ -37,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:starmie-super-mega-raid-day-2026
-DTSTAMP:20260719T023534Z
+DTSTAMP:20260720T025031Z
 SUMMARY:[RD] Starmie Super Mega Raid Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/starmie-super-mega-raid-day-2026/
