@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251025T023230Z
+DTSTART:20251026T023724Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2026-07-27
-DTSTAMP:20260722T023230Z
+DTSTAMP:20260723T023724Z
 SUMMARY:[MM] Dynamax Feebas during Max Monday
 DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-07-27/
@@ -31,6 +31,91 @@ DTEND:20260728T010000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dynamax Feebas during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-08-03
+DTSTAMP:20260723T023724Z
+SUMMARY:[MM] Dynamax Magmar during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-08-03/
+URL:https://leekduck.com/events/max-mondays-2026-08-03/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260803T100000Z
+DTEND:20260804T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Magmar during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-08-10
+DTSTAMP:20260723T023724Z
+SUMMARY:[MM] Dynamax Beldum during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-08-10/
+URL:https://leekduck.com/events/max-mondays-2026-08-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260810T100000Z
+DTEND:20260811T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Beldum during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-08-17
+DTSTAMP:20260723T023724Z
+SUMMARY:[MM] Dynamax Magikarp during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-08-17/
+URL:https://leekduck.com/events/max-mondays-2026-08-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260817T100000Z
+DTEND:20260818T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Magikarp during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-08-24
+DTSTAMP:20260723T023724Z
+SUMMARY:[MM] Dynamax Hitmontop during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-08-24/
+URL:https://leekduck.com/events/max-mondays-2026-08-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260824T100000Z
+DTEND:20260825T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Hitmontop during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-08-31
+DTSTAMP:20260723T023724Z
+SUMMARY:[MM] Dynamax Eevee during Max Monday
+DESCRIPTION:Starts at 10:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/max-mondays-2026-08-31/
+URL:https://leekduck.com/events/max-mondays-2026-08-31/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20260831T100000Z
+DTEND:20260901T010000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Eevee during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

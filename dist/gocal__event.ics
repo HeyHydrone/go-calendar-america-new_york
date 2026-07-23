@@ -18,26 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:happy-birthday-professor-willow-2026
-DTSTAMP:20260722T023230Z
-SUMMARY:[E] Happy Birthday\, Professor Willow!
-DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
- m/events/happy-birthday-professor-willow-2026/
-URL:https://leekduck.com/events/happy-birthday-professor-willow-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-profess
- or-willow-2026.jpg
-DTSTART:20260721T140000Z
-DTEND:20260722T000000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Happy Birthday\, Professor Willow!
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ozone-ascent-2026
-DTSTAMP:20260722T023230Z
+DTSTAMP:20260723T023724Z
 SUMMARY:[E] Ozone Ascent
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/ozone-ascent-2026/
@@ -54,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-10th-anniversary-edition
-DTSTAMP:20260722T023230Z
+DTSTAMP:20260723T023724Z
 SUMMARY:[E] Ultra Unlock: 10th Anniversary Edition
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/ultra-unlock-10th-anniversary-edition/
@@ -72,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fire-and-ice-hatch-day-2026
-DTSTAMP:20260722T023230Z
+DTSTAMP:20260723T023724Z
 SUMMARY:[E] Fire and Ice Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/fire-and-ice-hatch-day-2026/
@@ -89,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-marathon-2026
-DTSTAMP:20260722T023230Z
+DTSTAMP:20260723T023724Z
 SUMMARY:[E] Summer Marathon: Arctic Embers
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/summer-marathon-2026/
@@ -106,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:water-festival-2026
-DTSTAMP:20260722T023230Z
+DTSTAMP:20260723T023724Z
 SUMMARY:[E] Ultra Unlock: Water Festival
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/water-festival-2026/
@@ -118,6 +100,23 @@ DTEND;VALUE=DATE:20260825
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Ultra Unlock: Water Festival
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-xp-2026-worlds
+DTSTAMP:20260723T023724Z
+SUMMARY:[E] Pokémon XP &amp\; 2026 Worlds
+DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemon-xp-2026-worlds/
+URL:https://leekduck.com/events/pokemon-xp-2026-worlds/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260831
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Pokémon XP &amp\; 2026 Worlds
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
