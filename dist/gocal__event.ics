@@ -19,8 +19,8 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ozone-ascent-2026
-DTSTAMP:20260725T023321Z
-SUMMARY:[E] Ozone Ascent
+DTSTAMP:20260726T023958Z
+SUMMARY:[E] Ozone Ascent - Rayquaza Timed Research
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/ozone-ascent-2026/
 URL:https://leekduck.com/events/ozone-ascent-2026/
@@ -30,13 +30,13 @@ DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260727
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Ozone Ascent
+DESCRIPTION:[E] Ozone Ascent - Rayquaza Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-10th-anniversary-edition
-DTSTAMP:20260725T023321Z
+DTSTAMP:20260726T023958Z
 SUMMARY:[E] Ultra Unlock: 10th Anniversary Edition
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/ultra-unlock-10th-anniversary-edition/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fire-and-ice-hatch-day-2026
-DTSTAMP:20260725T023321Z
+DTSTAMP:20260726T023958Z
 SUMMARY:[E] Fire and Ice Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/fire-and-ice-hatch-day-2026/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-marathon-2026
-DTSTAMP:20260725T023321Z
+DTSTAMP:20260726T023958Z
 SUMMARY:[E] Summer Marathon: Arctic Embers
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/summer-marathon-2026/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:water-festival-2026
-DTSTAMP:20260725T023321Z
+DTSTAMP:20260726T023958Z
 SUMMARY:[E] Ultra Unlock: Water Festival
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/water-festival-2026/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-xp-2026-worlds
-DTSTAMP:20260725T023321Z
+DTSTAMP:20260726T023958Z
 SUMMARY:[E] Pokémon XP &amp\; 2026 Worlds
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-xp-2026-worlds/
