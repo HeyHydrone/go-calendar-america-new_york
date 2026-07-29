@@ -12,32 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251024T140000Z
+DTSTART:20251101T023100Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ultra-unlock-10th-anniversary-edition
-DTSTAMP:20260728T022640Z
-SUMMARY:[E] Ultra Unlock: 10th Anniversary Edition
-DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
- m/events/ultra-unlock-10th-anniversary-edition/
-URL:https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-07-21-ultra-unlock-10th-anniversary-edition/ultra-unlock-10th-ann
- iversary-edition.jpg
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260728
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Ultra Unlock: 10th Anniversary Edition
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:fire-and-ice-hatch-day-2026
-DTSTAMP:20260728T022640Z
+DTSTAMP:20260729T023100Z
 SUMMARY:[E] Fire and Ice Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/fire-and-ice-hatch-day-2026/
@@ -54,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-marathon-2026
-DTSTAMP:20260728T022640Z
+DTSTAMP:20260729T023100Z
 SUMMARY:[E] Summer Marathon: Arctic Embers
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/summer-marathon-2026/
@@ -71,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:water-festival-2026
-DTSTAMP:20260728T022640Z
+DTSTAMP:20260729T023100Z
 SUMMARY:[E] Ultra Unlock: Water Festival
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/water-festival-2026/
@@ -88,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-xp-2026-worlds
-DTSTAMP:20260728T022640Z
+DTSTAMP:20260729T023100Z
 SUMMARY:[E] Pokémon XP &amp\; 2026 Worlds
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-xp-2026-worlds/
