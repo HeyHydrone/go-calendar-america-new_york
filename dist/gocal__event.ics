@@ -18,25 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fire-and-ice-hatch-day-2026
-DTSTAMP:20260810T014120Z
-SUMMARY:[E] Fire and Ice Hatch Day
-DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
- m/events/fire-and-ice-hatch-day-2026/
-URL:https://leekduck.com/events/fire-and-ice-hatch-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-08-fire-and-ice-hatch-day-2026/fire-and-ice-hatch-day-2026.jpg
-DTSTART:20260808T150000Z
-DTEND:20260808T210000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Fire and Ice Hatch Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:summer-marathon-2026
-DTSTAMP:20260810T014120Z
+DTSTAMP:20260811T013819Z
 SUMMARY:[E] Summer Marathon: Arctic Embers
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/summer-marathon-2026/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:water-festival-2026
-DTSTAMP:20260810T014120Z
+DTSTAMP:20260811T013819Z
 SUMMARY:[E] Ultra Unlock: Water Festival
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/water-festival-2026/
@@ -70,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-xp-2026-worlds
-DTSTAMP:20260810T014120Z
+DTSTAMP:20260811T013819Z
 SUMMARY:[E] PokémonXP &amp\; 2026 Worlds
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-xp-2026-worlds/
@@ -86,8 +69,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:catch-mastery-september-2026
+DTSTAMP:20260811T013819Z
+SUMMARY:[E] Catch Mastery
+DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/catch-mastery-september-2026/
+URL:https://leekduck.com/events/catch-mastery-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20260926T140000Z
+DTEND:20260927T000000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Catch Mastery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260810T014120Z
+DTSTAMP:20260811T013819Z
 SUMMARY:[E] LEGO Stores and Pokémon GO
 DESCRIPTION:Starts at 14:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/lego-pokemon-go-2026/
@@ -99,6 +99,23 @@ DTEND;VALUE=DATE:20261001
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] LEGO Stores and Pokémon GO
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hatch-day-october-2026
+DTSTAMP:20260811T013819Z
+SUMMARY:[E] Hatch Day
+DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/hatch-day-october-2026/
+URL:https://leekduck.com/events/hatch-day-october-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20261017T150000Z
+DTEND:20261017T210000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Hatch Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

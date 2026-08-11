@@ -12,26 +12,42 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251104T180000Z
+DTSTART:20251114T013819Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-rillaboom-max-battle-day-2026
-DTSTAMP:20260802T023927Z
-SUMMARY:[MB] Gigantamax Rillaboom Max Battle Day
+UID:max-battle-day-october-2026
+DTSTAMP:20260811T013819Z
+SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
- m/events/gigantamax-rillaboom-max-battle-day-2026/
-URL:https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillabo
- om-max-battle-day.jpg
-DTSTART:20260801T180000Z
-DTEND:20260801T210000Z
+ m/events/max-battle-day-october-2026/
+URL:https://leekduck.com/events/max-battle-day-october-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20261003T180000Z
+DTEND:20261003T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Rillaboom Max Battle Day
+DESCRIPTION:[MB] Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-october-24-2026
+DTSTAMP:20260811T013819Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/max-battle-day-october-24-2026/
+URL:https://leekduck.com/events/max-battle-day-october-24-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20261024T180000Z
+DTEND:20261024T210000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

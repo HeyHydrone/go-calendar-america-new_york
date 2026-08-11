@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251113T014120Z
+DTSTART:20251114T013819Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260810T014120Z
+DTSTAMP:20260811T013819Z
 SUMMARY:[CD] Nickit Community Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/august-communityday2026/
@@ -31,6 +31,54 @@ DTEND:20260816T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[CD] Nickit Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:september-communitydayclassic2026
+DTSTAMP:20260811T013819Z
+SUMMARY:[CD] September Community Day Classic
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/september-communitydayclassic2026/
+URL:https://leekduck.com/events/september-communitydayclassic2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20260912T180000Z
+DTEND:20260912T210000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] September Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:october-communityday2026
+DTSTAMP:20260811T013819Z
+SUMMARY:[CD] October Community Day
+DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
+ m/events/october-communityday2026/
+URL:https://leekduck.com/events/october-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20261010T180000Z
+DTEND:20261010T210000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] October Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communityday2026
+DTSTAMP:20260811T013819Z
+SUMMARY:[CD] November Community Day
+DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
+ m/events/november-communityday2026/
+URL:https://leekduck.com/events/november-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] November Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
