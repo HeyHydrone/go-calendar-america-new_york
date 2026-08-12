@@ -12,21 +12,21 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251114T013819Z
+DTSTART:20251115T014906Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-mega-finale
-DTSTAMP:20260811T013819Z
+DTSTAMP:20260812T014906Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Mega Finale
-DESCRIPTION:Starts at 14:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+DESCRIPTION:Starts at 14:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-fest-2026-mega-finale/
 URL:https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-
- finale.jpg?v2
+ finale.jpg
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 BEGIN:VALARM
