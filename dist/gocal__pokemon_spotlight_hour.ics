@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251123T220000Z
+DTSTART:20251126T011348Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-08-20
-DTSTAMP:20260822T010758Z
-SUMMARY:[PSH] Magikarp Spotlight Hour
-DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
- m/events/pokemonspotlighthour2026-08-20/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-08-20/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART:20260820T220000Z
-DTEND:20260820T230000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Magikarp Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-08-27
-DTSTAMP:20260822T010758Z
+DTSTAMP:20260823T011348Z
 SUMMARY:[PSH] Mankey Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-08-27/
