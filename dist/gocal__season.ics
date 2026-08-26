@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:season-23-forever-forward
-DTSTAMP:20260825T011002Z
+DTSTAMP:20260826T011224Z
 SUMMARY:[S] Forever Forward
 DESCRIPTION:Starts at 14:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/season-23-forever-forward/
@@ -31,6 +31,23 @@ DTEND;VALUE=DATE:20260908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[S] Forever Forward
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-24-twilight-trails
+DTSTAMP:20260826T011224Z
+SUMMARY:[S] Twilight Trails
+DESCRIPTION:Starts at 14:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
+ m/events/season-24-twilight-trails/
+URL:https://leekduck.com/events/season-24-twilight-trails/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-09-08-season-24-twilight-trails/season-24-twilight-trails.jpg
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20261201
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[S] Twilight Trails
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:go-pass-august-2026
-DTSTAMP:20260825T011002Z
+DTSTAMP:20260826T011224Z
 SUMMARY:[GP] GO Pass: August
 DESCRIPTION:Starts at 14:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-august-2026/
@@ -31,6 +31,23 @@ DTEND;VALUE=DATE:20260908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GP] GO Pass: August
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-september-2026
+DTSTAMP:20260826T011224Z
+SUMMARY:[GP] GO Pass: September
+DESCRIPTION:Starts at 14:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
+ m/events/go-pass-september-2026/
+URL:https://leekduck.com/events/go-pass-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-09-08-go-pass-september-2026/go-pass-september-2026.jpg
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20261006
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GP] GO Pass: September
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
