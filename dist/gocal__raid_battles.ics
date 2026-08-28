@@ -18,40 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:lunala-in-5-star-raid-battles-august-2026
-DTSTAMP:20260827T072535Z
-SUMMARY:[RB] Lunala in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
- m/events/lunala-in-5-star-raid-battles-august-2026/
-URL:https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260826
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Lunala in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-swampert-in-mega-raids-august-2026
-DTSTAMP:20260827T072535Z
-SUMMARY:[RB] Mega Swampert in Mega Raids
-DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
- m/events/mega-swampert-in-mega-raids-august-2026/
-URL:https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260826
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Swampert in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-giratina-altered-in-shadow-raids-august-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Shadow Giratina (Altered Forme) in Shadow Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-giratina-altered-in-shadow-raids-august-2026/
@@ -69,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-august-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/mega-gyarados-in-mega-raids-august-2026/
@@ -85,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regirock-regice-registeel-in-5-star-raid-battles-august-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Regirock\, Regice\, and Registeel in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/
@@ -102,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-beedrill-in-mega-raids-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Mega Beedrill in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/mega-beedrill-in-mega-raids-september-2026/
@@ -118,7 +86,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Zacian (Hero of Many Battles) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026
@@ -137,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-houndoom-in-mega-raids-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Mega Houndoom in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/mega-houndoom-in-mega-raids-september-2026/
@@ -153,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Mega Venusaur in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/mega-venusaur-in-mega-raids-september-2026/
@@ -169,7 +137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Zamazenta (Hero of Many Battles) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2
@@ -188,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-malamar-in-mega-raids-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Mega Malamar in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/mega-malamar-in-mega-raids-september-2026/
@@ -204,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Xurkitree\, Pheromosa\, and Buzzwole in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-202
@@ -224,7 +192,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Shadow Thundurus (Incarnate Forme) in Shadow Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/
@@ -242,7 +210,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-victreebel-in-mega-raids-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Mega Victreebel in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/mega-victreebel-in-mega-raids-september-2026/
@@ -259,7 +227,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-september-2026
-DTSTAMP:20260827T072535Z
+DTSTAMP:20260828T094028Z
 SUMMARY:[RB] Xerneas in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/xerneas-in-5-star-raid-battles-september-2026/
