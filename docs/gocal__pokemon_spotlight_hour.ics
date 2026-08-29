@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251130T220000Z
+DTSTART:20251202T054408Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-08-27
-DTSTAMP:20260828T094028Z
-SUMMARY:[PSH] Mankey Spotlight Hour
-DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
- m/events/pokemonspotlighthour2026-08-27/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-08-27/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART:20260827T220000Z
-DTEND:20260827T230000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Mankey Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-10
-DTSTAMP:20260828T094028Z
+DTSTAMP:20260829T054408Z
 SUMMARY:[PSH] Weedle\, Kakuna\, and Beedrill Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-09-10/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-13
-DTSTAMP:20260828T094028Z
+DTSTAMP:20260829T054408Z
 SUMMARY:[PSH] Houndour and Houndoom Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-09-13/
@@ -70,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-17
-DTSTAMP:20260828T094028Z
+DTSTAMP:20260829T054408Z
 SUMMARY:[PSH] Mystery Pokémon Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-09-17/
@@ -87,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-24
-DTSTAMP:20260828T094028Z
+DTSTAMP:20260829T054408Z
 SUMMARY:[PSH] Rattata Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-09-24/
