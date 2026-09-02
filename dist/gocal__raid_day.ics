@@ -12,31 +12,32 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251205T034149Z
+DTSTART:20251206T030022Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:super-mega-raid-day-september-2026
-DTSTAMP:20260901T034149Z
-SUMMARY:[RD] Super Mega Raid Day
+UID:staraptor-super-mega-raid-day-2026
+DTSTAMP:20260902T030022Z
+SUMMARY:[RD] Staraptor Super Mega Raid Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
- m/events/super-mega-raid-day-september-2026/
-URL:https://leekduck.com/events/super-mega-raid-day-september-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ m/events/staraptor-super-mega-raid-day-2026/
+URL:https://leekduck.com/events/staraptor-super-mega-raid-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-09-19-staraptor-super-mega-raid-day-2026/staraptor-super-mega-rai
+ d-day-2026.jpg
 DTSTART:20260919T180000Z
 DTEND:20260919T210000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Super Mega Raid Day
+DESCRIPTION:[RD] Staraptor Super Mega Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-october-2026
-DTSTAMP:20260901T034149Z
+DTSTAMP:20260902T030022Z
 SUMMARY:[RD] Super Mega Raid Day
 DESCRIPTION:Starts at 18:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/super-mega-raid-day-october-2026/
@@ -53,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026
-DTSTAMP:20260901T034149Z
+DTSTAMP:20260902T030022Z
 SUMMARY:[RD] Super Mega Raid Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/super-mega-raid-day-november-2026/
