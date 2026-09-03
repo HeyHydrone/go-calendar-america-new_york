@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-ascension
-DTSTAMP:20260902T030022Z
+DTSTAMP:20260903T030213Z
 SUMMARY:[E] Mega Ascension
 DESCRIPTION:Starts at 14:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/mega-ascension/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:10th-anniversary-celebration
-DTSTAMP:20260902T030022Z
+DTSTAMP:20260903T030213Z
 SUMMARY:[E] 10th Anniversary Celebration - Perfect Mewtwo Timed Research
 DESCRIPTION:Starts at 20:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/10th-anniversary-celebration/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-squads
-DTSTAMP:20260902T030022Z
+DTSTAMP:20260903T030213Z
 SUMMARY:[E] Mega Squads
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/mega-squads/
@@ -71,25 +71,27 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-september-event-season-24
-DTSTAMP:20260902T030022Z
-SUMMARY:[E] Unannounced Event
+UID:pokemon-horizons-the-series-celebration-event-2026
+DTSTAMP:20260903T030213Z
+SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
- m/events/unannounced-september-event-season-24/
-URL:https://leekduck.com/events/unannounced-september-event-season-24/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ m/events/pokemon-horizons-the-series-celebration-event-2026/
+URL:https://leekduck.com/events/pokemon-horizons-the-series-celebration-eve
+ nt-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-09-16-pokemon-horizons-the-series-celebration-event-2026/pokemon-
+ horizons-celebration-event-2026.jpg
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260923
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Unannounced Event
+DESCRIPTION:[E] Pokémon Horizons: The Series Celebration Event
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-phantump-2026
-DTSTAMP:20260902T030022Z
+DTSTAMP:20260903T030213Z
 SUMMARY:[E] Phantump Catch Mastery
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/catch-mastery-phantump-2026/
@@ -106,7 +108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260902T030022Z
+DTSTAMP:20260903T030213Z
 SUMMARY:[E] LEGO Stores and Pokémon GO
 DESCRIPTION:Starts at 14:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/lego-pokemon-go-2026/
@@ -123,7 +125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026
-DTSTAMP:20260902T030022Z
+DTSTAMP:20260903T030213Z
 SUMMARY:[E] Harvest Festival
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/harvest-festival-2026/
@@ -140,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026
-DTSTAMP:20260902T030022Z
+DTSTAMP:20260903T030213Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-october-2026/
