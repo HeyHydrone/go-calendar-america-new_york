@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250905T140000Z
+DTSTART:20251212T140000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:season-23-forever-forward
-DTSTAMP:20260908T031047Z
-SUMMARY:[S] Forever Forward
-DESCRIPTION:Starts at 14:00 EST\, ends at 14:00 EST.\n\nhttps://leekduck.co
- m/events/season-23-forever-forward/
-URL:https://leekduck.com/events/season-23-forever-forward/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-06-02-season-23-forever-forward/season-23-forever-forward.jpg
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260908
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[S] Forever Forward
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-24-twilight-trails
-DTSTAMP:20260908T031047Z
+DTSTAMP:20260909T031249Z
 SUMMARY:[S] Twilight Trails
 DESCRIPTION:Starts at 14:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/season-24-twilight-trails/
