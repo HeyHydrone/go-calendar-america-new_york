@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-squads
-DTSTAMP:20260909T031249Z
+DTSTAMP:20260910T031233Z
 SUMMARY:[E] Mega Squads
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/mega-squads/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event-2026
-DTSTAMP:20260909T031249Z
+DTSTAMP:20260910T031233Z
 SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-horizons-the-series-celebration-event-2026/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-phantump-2026
-DTSTAMP:20260909T031249Z
+DTSTAMP:20260910T031233Z
 SUMMARY:[E] Phantump Catch Mastery
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/catch-mastery-phantump-2026/
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260909T031249Z
+DTSTAMP:20260910T031233Z
 SUMMARY:[E] LEGO Stores and Pokémon GO
 DESCRIPTION:Starts at 14:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/lego-pokemon-go-2026/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026
-DTSTAMP:20260909T031249Z
+DTSTAMP:20260910T031233Z
 SUMMARY:[E] Harvest Festival 2026: Applin Picking
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/harvest-festival-2026/
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-taken-over-2026
-DTSTAMP:20260909T031249Z
+DTSTAMP:20260910T031233Z
 SUMMARY:[E] Harvest Festival: Taken Over
 DESCRIPTION:Starts at 04:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/harvest-festival-taken-over-2026/
@@ -124,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026
-DTSTAMP:20260909T031249Z
+DTSTAMP:20260910T031233Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-october-2026/
