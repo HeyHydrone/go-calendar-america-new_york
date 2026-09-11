@@ -12,15 +12,15 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251214T031233Z
+DTSTART:20251215T030807Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan
-DTSTAMP:20260910T031233Z
-SUMMARY:[WA] Pokémon GO Wild Area: Sendai\, Tohoku
+DTSTAMP:20260911T030807Z
+SUMMARY:[WA] Pokémon GO Wild Area 2026: Sendai • Tohoku
 DESCRIPTION:Starts at 01:00 EST\, ends at 09:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-wild-area-2026-sendai-japan/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
@@ -30,14 +30,14 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261108
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area: Sendai\, Tohoku
+DESCRIPTION:[WA] Pokémon GO Wild Area 2026: Sendai • Tohoku
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city
-DTSTAMP:20260910T031233Z
-SUMMARY:[WA] Pokémon GO Wild Area: Mexico City
+DTSTAMP:20260911T030807Z
+SUMMARY:[WA] Pokémon GO Wild Area 2026: Mexico City
 DESCRIPTION:Starts at 16:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-wild-area-2026-mexico-city/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
@@ -47,14 +47,14 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area: Mexico City
+DESCRIPTION:[WA] Pokémon GO Wild Area 2026: Mexico City
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global
-DTSTAMP:20260910T031233Z
-SUMMARY:[WA] Pokémon GO Wild Area: Global
+DTSTAMP:20260911T030807Z
+SUMMARY:[WA] Pokémon GO Wild Area 2026: Global
 DESCRIPTION:Starts at 15:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-wild-area-2026-global/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
@@ -64,7 +64,7 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area: Global
+DESCRIPTION:[WA] Pokémon GO Wild Area 2026: Global
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
