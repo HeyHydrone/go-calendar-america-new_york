@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251221T033255Z
+DTSTART:20251221T220000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-17
-DTSTAMP:20260917T033255Z
+DTSTAMP:20260918T031845Z
 SUMMARY:[PSH] Charmander wearing Friede's goggles Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-09-17/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-24
-DTSTAMP:20260917T033255Z
+DTSTAMP:20260918T031845Z
 SUMMARY:[PSH] Rattata Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-09-24/
@@ -48,6 +48,91 @@ DTEND:20260924T230000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Rattata Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-01
+DTSTAMP:20260918T031845Z
+SUMMARY:[PSH] Seedot Spotlight Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-10-01/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-01/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261001T220000Z
+DTEND:20261001T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Seedot Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-08
+DTSTAMP:20260918T031845Z
+SUMMARY:[PSH] Elgyem Spotlight Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-10-08/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-08/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261008T220000Z
+DTEND:20261008T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Elgyem Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-15
+DTSTAMP:20260918T031845Z
+SUMMARY:[PSH] Stufful Spotlight Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-10-15/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-15/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261015T220000Z
+DTEND:20261015T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Stufful Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-22
+DTSTAMP:20260918T031845Z
+SUMMARY:[PSH] Morelull Spotlight Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-10-22/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-22/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261022T220000Z
+DTEND:20261022T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Morelull Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-29
+DTSTAMP:20260918T031845Z
+SUMMARY:[PSH] Gastly Spotlight Hour
+DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-10-29/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-29/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261029T220000Z
+DTEND:20261029T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Gastly Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
