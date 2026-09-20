@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event-2026
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] Pokémon Horizons: The Series Celebration Event 2026
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-horizons-the-series-celebration-event-2026/
@@ -38,7 +38,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-phantump-2026
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] Phantump Catch Mastery
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/catch-mastery-phantump-2026/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] LEGO Stores and Pokémon GO
 DESCRIPTION:Starts at 14:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/lego-pokemon-go-2026/
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:patterns-of-the-wild-2026
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] Patterns of the Wild
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/patterns-of-the-wild-2026/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] Harvest Festival 2026: Applin Picking
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/harvest-festival-2026/
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-taken-over-2026
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] Harvest Festival: Taken Over
 DESCRIPTION:Starts at 04:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/harvest-festival-taken-over-2026/
@@ -124,9 +124,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-october-2026
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] ???
-DESCRIPTION:Starts at 04:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
+DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/unannounced-event-october-2026/
 URL:https://leekduck.com/events/unannounced-event-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
@@ -141,7 +141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-october-2026/
@@ -158,9 +158,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] Fall Marathon: Buddy Trek
-DESCRIPTION:Starts at 04:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
+DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/fall-marathon-buddy-trek-2026/
 URL:https://leekduck.com/events/fall-marathon-buddy-trek-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
@@ -175,9 +175,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] Halloween 2026 Part I
-DESCRIPTION:Starts at 04:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
+DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/halloween-2026-part-1/
 URL:https://leekduck.com/events/halloween-2026-part-1/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
@@ -192,9 +192,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2
-DTSTAMP:20260919T031500Z
+DTSTAMP:20260920T033207Z
 SUMMARY:[E] Halloween 2026 Part II
-DESCRIPTION:Starts at 04:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
+DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/halloween-2026-part-2/
 URL:https://leekduck.com/events/halloween-2026-part-2/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
