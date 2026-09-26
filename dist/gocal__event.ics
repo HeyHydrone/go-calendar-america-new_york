@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:catch-mastery-phantump-2026
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] Phantump Catch Mastery
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/catch-mastery-phantump-2026/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] LEGO Stores and Pokémon GO
 DESCRIPTION:Starts at 14:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/lego-pokemon-go-2026/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:patterns-of-the-wild-2026
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] Patterns of the Wild
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/patterns-of-the-wild-2026/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] Harvest Festival 2026: Applin Picking
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/harvest-festival-2026/
@@ -87,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-taken-over-2026
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] Harvest Festival: Taken Over
 DESCRIPTION:Starts at 04:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/harvest-festival-taken-over-2026/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-space-week-2026
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] World Space Week 2026
 DESCRIPTION:Starts at 04:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/world-space-week-2026/
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sandile-hatch-day-2026
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] Sandile Hatch Day
 DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
  m/events/sandile-hatch-day-2026/
@@ -139,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] Fall Marathon: Buddy Trek
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/fall-marathon-buddy-trek-2026/
@@ -157,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] Halloween 2026 Part I
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/halloween-2026-part-1/
@@ -174,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[E] Halloween 2026 Part II
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/halloween-2026-part-2/

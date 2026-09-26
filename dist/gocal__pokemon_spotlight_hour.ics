@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251228T220000Z
+DTSTART:20251230T033933Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-09-24
-DTSTAMP:20260925T033402Z
-SUMMARY:[PSH] Rattata Spotlight Hour
-DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
- m/events/pokemonspotlighthour2026-09-24/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART:20260924T220000Z
-DTEND:20260924T230000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Rattata Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-01
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[PSH] Seedot Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-10-01/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-08
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[PSH] Elgyem Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-10-08/
@@ -70,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-15
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[PSH] Stufful Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-10-15/
@@ -87,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-22
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[PSH] Morelull Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-10-22/
@@ -104,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[PSH] Gastly Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-10-29/

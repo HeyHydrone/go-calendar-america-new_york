@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251229T033402Z
+DTSTART:20251230T033933Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[PGT] Pokémon GO Tour: Alola - Kaohsiung 2027
 DESCRIPTION:Starts at 16:00 EST\, ends at 15:59 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-alola-kaohsiung-2027/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[PGT] Pokémon GO Tour: Alola - Los Angeles 2027
 DESCRIPTION:Starts at 08:00 EST\, ends at 07:59 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-alola-los-angeles-2027/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027
-DTSTAMP:20260925T033402Z
+DTSTAMP:20260926T033933Z
 SUMMARY:[PGT] Pokémon GO Tour: Alola - Global 2027
 DESCRIPTION:Starts at 05:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-alola-global-2027/
