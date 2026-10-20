@@ -18,25 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sandile-hatch-day-2026
-DTSTAMP:20261019T032146Z
-SUMMARY:[E] Sandile Hatch Day
-DESCRIPTION:Starts at 15:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
- m/events/sandile-hatch-day-2026/
-URL:https://leekduck.com/events/sandile-hatch-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-10-17-sandile-hatch-day-2026/sandile-hatch-day-2026.jpg
-DTSTART:20261017T150000Z
-DTEND:20261017T210000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Sandile Hatch Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Fall Marathon: Buddy Trek
 DESCRIPTION:Starts at 14:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/fall-marathon-buddy-trek-2026/
@@ -54,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-tcg-30th-celebration
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Pokémon TCG: 30th Celebration
 DESCRIPTION:Starts at 14:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-tcg-30th-celebration/
@@ -71,8 +54,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-night-out-los-angeles-2026
+DTSTAMP:20261020T033056Z
+SUMMARY:[E] Pokémon Night Out 2026 - Los Angeles
+DESCRIPTION:Starts at 02:30 EST\, ends at 06:59 EST.\n\nhttps://leekduck.co
+ m/events/pokemon-night-out-los-angeles-2026/
+URL:https://leekduck.com/events/pokemon-night-out-los-angeles-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemon-night-ou
+ t-2026.jpg
+DTSTART:20261025T023000Z
+DTEND:20261025T065959Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Pokémon Night Out 2026 - Los Angeles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:minior-showers-orionids-2026
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Minior Showers: Orionids 2026
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-orionids-2026/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Pokémon GO Halloween 2026 Part I
 DESCRIPTION:Starts at 14:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/halloween-2026-part-1/
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Pokémon GO Halloween 2026 Part II
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/halloween-2026-part-2/
@@ -122,8 +122,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-night-out-london-2026
+DTSTAMP:20261020T033056Z
+SUMMARY:[E] Pokémon Night Out 2026 - London
+DESCRIPTION:Starts at 18:00 EST\, ends at 22:30 EST.\n\nhttps://leekduck.co
+ m/events/pokemon-night-out-london-2026/
+URL:https://leekduck.com/events/pokemon-night-out-london-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemon-night-ou
+ t-2026.jpg
+DTSTART:20261110T180000Z
+DTEND:20261110T223000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Pokémon Night Out 2026 - London
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:into-the-wild-2026
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Into the Wild
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/into-the-wild-2026/
@@ -140,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-leonids-2026
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Minior Showers: Leonids 2026
 DESCRIPTION:Starts at 22:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-leonids-2026/
@@ -156,8 +173,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:dynamax-trails-2026
+DTSTAMP:20261020T033056Z
+SUMMARY:[E] Dynamax Trails
+DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/dynamax-trails-2026/
+URL:https://leekduck.com/events/dynamax-trails-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261124
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Dynamax Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:twilight-wishes-2026
+DTSTAMP:20261020T033056Z
+SUMMARY:[E] Twilight Wishes
+DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/twilight-wishes-2026/
+URL:https://leekduck.com/events/twilight-wishes-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261201
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Twilight Wishes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:minior-showers-geminids-2026
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Minior Showers: Geminids 2026
 DESCRIPTION:Starts at 22:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-geminids-2026/
@@ -174,7 +225,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Minior Showers: Eta Aquariids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-eta-aquariids-2027/
@@ -191,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Minior Showers: Southern Delta Aquariids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-southern-delta-aquariids-2027/
@@ -209,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[E] Minior Showers: Perseids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-perseids-2027/

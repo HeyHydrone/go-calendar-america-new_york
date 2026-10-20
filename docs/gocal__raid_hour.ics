@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260122T032146Z
+DTSTART:20260123T033056Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20261021
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[RH] Palkia Raid Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20261021/
@@ -35,7 +35,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261028
-DTSTAMP:20261019T032146Z
+DTSTAMP:20261020T033056Z
 SUMMARY:[RH] Giratina (Origin Forme) Raid Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20261028/
@@ -46,6 +46,56 @@ DTEND:20261028T230000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Giratina (Origin Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261104
+DTSTAMP:20261020T033056Z
+SUMMARY:[RH] Giratina (Altered Forme) Raid Hour
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/raidhour20261104/
+URL:https://leekduck.com/events/raidhour20261104/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261104T230000Z
+DTEND:20261105T000000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Giratina (Altered Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261118
+DTSTAMP:20261020T033056Z
+SUMMARY:[RH] Cresselia and Darkrai Raid Hour
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/raidhour20261118/
+URL:https://leekduck.com/events/raidhour20261118/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261118T230000Z
+DTEND:20261119T000000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Cresselia and Darkrai Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261125
+DTSTAMP:20261020T033056Z
+SUMMARY:[RH] Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hou
+ r
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/raidhour20261125/
+URL:https://leekduck.com/events/raidhour20261125/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261125T230000Z
+DTEND:20261126T000000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid
+  Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
