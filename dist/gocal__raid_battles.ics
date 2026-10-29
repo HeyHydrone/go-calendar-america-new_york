@@ -18,41 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026
-DTSTAMP:20261028T040656Z
-SUMMARY:[RB] Mega Charizard X and Mega Charizard Y in Mega Raids
-DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
- m/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/
-URL:https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-r
- aids-october-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261028
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Charizard X and Mega Charizard Y in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:palkia-in-5-star-raid-battles-october-2026
-DTSTAMP:20261028T040656Z
-SUMMARY:[RB] Palkia in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
- m/events/palkia-in-5-star-raid-battles-october-2026/
-URL:https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261028
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Palkia in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-landorus-incarnate-forme-in-shadow-raids-october-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Shadow Landorus (Incarnate Forme) in Shadow Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/
@@ -70,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-origin-forme-in-5-star-raid-battles-october-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Giratina (Origin Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/
@@ -88,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Mega Sableye in Mega Raids
 DESCRIPTION:Starts at 10:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/mega-sableye-in-mega-raids-october-2026/
@@ -104,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-altered-forme-in-5-star-raid-battles-november-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Giratina (Altered Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/giratina-altered-forme-in-5-star-raid-battles-november-2026/
@@ -122,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026/
@@ -140,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-darkrai-in-5-star-raid-battles-november-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Cresselia and Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/
@@ -158,7 +125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-november-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Mega Banette in Mega Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/mega-banette-in-mega-raids-november-2026/
@@ -174,7 +141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/
@@ -193,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-novemb
  er-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-sta
  r Raid Battles
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
@@ -214,7 +181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-in-mega-raids-november-2026
-DTSTAMP:20261028T040656Z
+DTSTAMP:20261029T042944Z
 SUMMARY:[RB] Mega Metagross in Mega Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/mega-metagross-in-mega-raids-november-2026/
