@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29
-DTSTAMP:20261030T042943Z
+DTSTAMP:20261031T041120Z
 SUMMARY:[PSH] Gastly Spotlight Hour
 DESCRIPTION:Starts at 22:00 EST\, ends at 23:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-10-29/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-05
-DTSTAMP:20261030T042943Z
+DTSTAMP:20261031T041120Z
 SUMMARY:[PSH] Teddiursa wearing a witch hat Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-11-05/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-19
-DTSTAMP:20261030T042943Z
+DTSTAMP:20261031T041120Z
 SUMMARY:[PSH] Grookey\, Scorbunny\, and Sobble Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-11-19/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26
-DTSTAMP:20261030T042943Z
+DTSTAMP:20261031T041120Z
 SUMMARY:[PSH] Noibat Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-11-26/
