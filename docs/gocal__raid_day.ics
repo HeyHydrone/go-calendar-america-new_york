@@ -12,25 +12,25 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260208T051430Z
+DTSTART:20260209T051406Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:super-mega-raid-day-november-2026
-DTSTAMP:20261105T051430Z
-SUMMARY:[RD] Super Mega Raid Day
+UID:clefable-super-mega-raid-day-2026
+DTSTAMP:20261106T051406Z
+SUMMARY:[RD] Clefable Super Mega Raid Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
- m/events/super-mega-raid-day-november-2026/
-URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ m/events/clefable-super-mega-raid-day-2026/
+URL:https://leekduck.com/events/clefable-super-mega-raid-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/clefable-super-m
+ ega-raid-day-2026.jpg
 DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Super Mega Raid Day
+DESCRIPTION:[RD] Clefable Super Mega Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
