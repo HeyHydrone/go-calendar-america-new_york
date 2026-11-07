@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260209T051406Z
+DTSTART:20260209T150000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:go-wild-area-gigantamax-machamp-power-up-timed-research
-DTSTAMP:20261106T051406Z
+DTSTAMP:20261107T044525Z
 SUMMARY:[TR] GO Wild Area: Gigantamax Machamp Power Up! Timed Research
 DESCRIPTION:Starts at 15:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/go-wild-area-gigantamax-machamp-power-up-timed-research/
