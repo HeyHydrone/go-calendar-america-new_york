@@ -12,27 +12,26 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260209T150000Z
+DTSTART:20260220T064005Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:go-wild-area-gigantamax-machamp-power-up-timed-research
-DTSTAMP:20261116T045200Z
-SUMMARY:[TR] GO Wild Area: Gigantamax Machamp Power Up! Timed Research
+UID:duolingo-timed-research-2026
+DTSTAMP:20261117T064005Z
+SUMMARY:[TR] Pokémon GO and Duolingo Timed Research
 DESCRIPTION:Starts at 15:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
- m/events/go-wild-area-gigantamax-machamp-power-up-timed-research/
-URL:https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-ti
- med-research/
+ m/events/duolingo-timed-research-2026/
+URL:https://leekduck.com/events/duolingo-timed-research-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-25-gigantamax-machamp-max-battle-day-may-2025/gigantamax-macha
- mp-max-battles.jpg
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261116
+ 026/2026-11-17-duolingo-timed-research-2026/duolingo-timed-research-2026.j
+ pg
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20270101
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TR] GO Wild Area: Gigantamax Machamp Power Up! Timed Research
+DESCRIPTION:[TR] Pokémon GO and Duolingo Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
