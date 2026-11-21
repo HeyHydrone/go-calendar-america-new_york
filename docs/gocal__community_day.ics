@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260223T054848Z
+DTSTART:20260224T054353Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:november-communityday2026
-DTSTAMP:20261120T054848Z
+DTSTAMP:20261121T054353Z
 SUMMARY:[CD] Pawniard Community Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/november-communityday2026/
@@ -36,23 +36,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-communityday2026
-DTSTAMP:20261120T054848Z
-SUMMARY:[CD] December Community Day
+DTSTAMP:20261121T054353Z
+SUMMARY:[CD] December Community Day 2026
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/december-communityday2026/
 URL:https://leekduck.com/events/december-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-12-12-december-communityday2026/december-2026-community-day.jpg
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] December Community Day
+DESCRIPTION:[CD] December Community Day 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2027
-DTSTAMP:20261120T054848Z
+DTSTAMP:20261121T054353Z
 SUMMARY:[CD] January Community Day Classic
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/january-communitydayclassic2027/
@@ -68,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2027
-DTSTAMP:20261120T054848Z
+DTSTAMP:20261121T054353Z
 SUMMARY:[CD] January Community Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/january-communityday2027/
@@ -84,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2027
-DTSTAMP:20261120T054848Z
+DTSTAMP:20261121T054353Z
 SUMMARY:[CD] February Community Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/february-communityday2027/
