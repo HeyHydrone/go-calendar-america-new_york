@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260224T190000Z
+DTSTART:20260226T055248Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:november-communityday2026
-DTSTAMP:20261122T051255Z
-SUMMARY:[CD] Pawniard Community Day
-DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
- m/events/november-communityday2026/
-URL:https://leekduck.com/events/november-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg
-DTSTART:20261121T190000Z
-DTEND:20261121T220000Z
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Pawniard Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:december-communityday2026
-DTSTAMP:20261122T051255Z
+DTSTAMP:20261123T055248Z
 SUMMARY:[CD] December Community Day 2026
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/december-communityday2026/
@@ -53,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2027
-DTSTAMP:20261122T051255Z
+DTSTAMP:20261123T055248Z
 SUMMARY:[CD] January Community Day Classic
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/january-communitydayclassic2027/
@@ -69,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2027
-DTSTAMP:20261122T051255Z
+DTSTAMP:20261123T055248Z
 SUMMARY:[CD] January Community Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/january-communityday2027/
@@ -85,7 +68,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2027
-DTSTAMP:20261122T051255Z
+DTSTAMP:20261123T055248Z
 SUMMARY:[CD] February Community Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/february-communityday2027/
