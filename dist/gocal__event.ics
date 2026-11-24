@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:dynamax-trails-2026
-DTSTAMP:20261123T055248Z
+DTSTAMP:20261124T083035Z
 SUMMARY:[E] Dynamax Trails
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/dynamax-trails-2026/
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026
-DTSTAMP:20261123T055248Z
+DTSTAMP:20261124T083035Z
 SUMMARY:[E] Twilight Wishes
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/twilight-wishes-2026/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026
-DTSTAMP:20261123T055248Z
+DTSTAMP:20261124T083035Z
 SUMMARY:[E] Minior Showers: Geminids 2026
 DESCRIPTION:Starts at 22:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-geminids-2026/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2026
-DTSTAMP:20261123T055248Z
+DTSTAMP:20261124T083035Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 16:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-december-2026/
@@ -87,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261123T055248Z
+DTSTAMP:20261124T083035Z
 SUMMARY:[E] Minior Showers: Eta Aquariids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-eta-aquariids-2027/
@@ -104,7 +104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261123T055248Z
+DTSTAMP:20261124T083035Z
 SUMMARY:[E] Minior Showers: Southern Delta Aquariids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-southern-delta-aquariids-2027/
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027
-DTSTAMP:20261123T055248Z
+DTSTAMP:20261124T083035Z
 SUMMARY:[E] Minior Showers: Perseids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-perseids-2027/
