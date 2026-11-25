@@ -12,31 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260219T150000Z
+DTSTART:20260227T150000Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dynamax-trails-2026
-DTSTAMP:20261124T083035Z
-SUMMARY:[E] Dynamax Trails
-DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/dynamax-trails-2026/
-URL:https://leekduck.com/events/dynamax-trails-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261124
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Dynamax Trails
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:twilight-wishes-2026
-DTSTAMP:20261124T083035Z
+DTSTAMP:20261125T070527Z
 SUMMARY:[E] Twilight Wishes
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/twilight-wishes-2026/
@@ -52,8 +35,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:tropical-paradise-2026
+DTSTAMP:20261125T070527Z
+SUMMARY:[E] Tropical Paradise
+DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/tropical-paradise-2026/
+URL:https://leekduck.com/events/tropical-paradise-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261208
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Tropical Paradise
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-event-december-2026
+DTSTAMP:20261125T070527Z
+SUMMARY:[E] Unannounced Event
+DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/unannounced-event-december-2026/
+URL:https://leekduck.com/events/unannounced-event-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261215
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Unannounced Event
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:minior-showers-geminids-2026
-DTSTAMP:20261124T083035Z
+DTSTAMP:20261125T070527Z
 SUMMARY:[E] Minior Showers: Geminids 2026
 DESCRIPTION:Starts at 22:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-geminids-2026/
@@ -70,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2026
-DTSTAMP:20261124T083035Z
+DTSTAMP:20261125T070527Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 16:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-december-2026/
@@ -86,8 +103,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:winter-holiday-2026
+DTSTAMP:20261125T070527Z
+SUMMARY:[E] Winter Holiday 2026
+DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/winter-holiday-2026/
+URL:https://leekduck.com/events/winter-holiday-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261229
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Winter Holiday 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:new-years-2027
+DTSTAMP:20261125T070527Z
+SUMMARY:[E] New Year's 2027
+DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
+ m/events/new-years-2027/
+URL:https://leekduck.com/events/new-years-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20270105
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] New Year's 2027
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261124T083035Z
+DTSTAMP:20261125T070527Z
 SUMMARY:[E] Minior Showers: Eta Aquariids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-eta-aquariids-2027/
@@ -104,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261124T083035Z
+DTSTAMP:20261125T070527Z
 SUMMARY:[E] Minior Showers: Southern Delta Aquariids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-southern-delta-aquariids-2027/
@@ -122,7 +173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027
-DTSTAMP:20261124T083035Z
+DTSTAMP:20261125T070527Z
 SUMMARY:[E] Minior Showers: Perseids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-perseids-2027/

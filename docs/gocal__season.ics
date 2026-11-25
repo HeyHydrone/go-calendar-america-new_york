@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:season-24-twilight-trails
-DTSTAMP:20261124T083035Z
+DTSTAMP:20261125T070527Z
 SUMMARY:[S] Twilight Trails
 DESCRIPTION:Starts at 14:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/season-24-twilight-trails/
@@ -31,6 +31,24 @@ DTEND;VALUE=DATE:20261201
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[S] Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-25-daydream-destinations
+DTSTAMP:20261125T070527Z
+SUMMARY:[S] Daydream Destinations
+DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
+ m/events/season-25-daydream-destinations/
+URL:https://leekduck.com/events/season-25-daydream-destinations/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-12-01-season-25-daydream-destinations/season-25-daydream-destinat
+ ions.jpg
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[S] Daydream Destinations
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

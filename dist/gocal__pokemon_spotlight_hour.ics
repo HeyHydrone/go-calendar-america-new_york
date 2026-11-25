@@ -12,14 +12,14 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260227T083035Z
+DTSTART:20260228T070527Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26
-DTSTAMP:20261124T083035Z
+DTSTAMP:20261125T070527Z
 SUMMARY:[PSH] Noibat Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-11-26/
@@ -31,6 +31,91 @@ DTEND:20261127T000000Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Noibat Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-03
+DTSTAMP:20261125T070527Z
+SUMMARY:[PSH] Wimpod Spotlight Hour
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-12-03/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-03/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261203T230000Z
+DTEND:20261204T000000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Wimpod Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-10
+DTSTAMP:20261125T070527Z
+SUMMARY:[PSH] Starly Spotlight Hour
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-12-10/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261210T230000Z
+DTEND:20261211T000000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Starly Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-17
+DTSTAMP:20261125T070527Z
+SUMMARY:[PSH] Bergmite Spotlight Hour
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-12-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261217T230000Z
+DTEND:20261218T000000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Bergmite Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-24
+DTSTAMP:20261125T070527Z
+SUMMARY:[PSH] Delibird Spotlight Hour
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-12-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261224T230000Z
+DTEND:20261225T000000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Delibird Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-31
+DTSTAMP:20261125T070527Z
+SUMMARY:[PSH] Plusle and Minun Spotlight Hour
+DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
+ m/events/pokemonspotlighthour2026-12-31/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-31/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20261231T230000Z
+DTEND:20270101T000000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Plusle and Minun Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
