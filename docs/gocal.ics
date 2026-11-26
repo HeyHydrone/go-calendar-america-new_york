@@ -18,42 +18,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cresselia-darkrai-in-5-star-raid-battles-november-2026
-DTSTAMP:20261125T070527Z
-SUMMARY:[RB] Cresselia and Darkrai in 5-star Raid Battles
-DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
- m/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/
-URL:https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-no
- vember-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/legendary-cresse
- lia.jpg
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261125
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Cresselia and Darkrai in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-banette-in-mega-raids-november-2026
-DTSTAMP:20261125T070527Z
-SUMMARY:[RB] Mega Banette in Mega Raids
-DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
- m/events/mega-banette-in-mega-raids-november-2026/
-URL:https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261125
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Banette in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20261125
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RH] Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hou
  r
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
@@ -71,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[PSH] Noibat Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-11-26/
@@ -88,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:clefable-super-mega-raid-day-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RD] Clefable Super Mega Raid Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/clefable-super-mega-raid-day-2026/
@@ -105,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[E] Twilight Wishes
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/twilight-wishes-2026/
@@ -122,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-30
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[MM] Dynamax Cryogonal during Max Monday
 DESCRIPTION:Starts at 11:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-11-30/
@@ -139,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-24-twilight-trails
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[S] Twilight Trails
 DESCRIPTION:Starts at 14:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/season-24-twilight-trails/
@@ -156,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-november-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GP] GO Pass: November
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-november-2026/
@@ -173,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/
@@ -191,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-novemb
  er-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-sta
  r Raid Battles
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
@@ -212,7 +178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-in-mega-raids-november-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Mega Metagross in Mega Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/mega-metagross-in-mega-raids-november-2026/
@@ -228,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261202
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RH] Regidrago Raid Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20261202/
@@ -244,7 +210,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-03
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[PSH] Wimpod Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-12-03/
@@ -260,31 +226,32 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:max-battle-day-december-2026
-DTSTAMP:20261125T070527Z
-SUMMARY:[MB] Max Battle Day
+UID:gigantamax-inteleon-max-battle-day-2026
+DTSTAMP:20261126T065659Z
+SUMMARY:[MB] Gigantamax Inteleon Max Battle Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
- m/events/max-battle-day-december-2026/
-URL:https://leekduck.com/events/max-battle-day-december-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ m/events/gigantamax-inteleon-max-battle-day-2026/
+URL:https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-12-05-gigantamax-inteleon-max-battle-day-2026/gigantamax-inteleon
+ -max-battle-day.jpg
 DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Max Battle Day
+DESCRIPTION:[MB] Gigantamax Inteleon Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tropical-paradise-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[E] Tropical Paradise
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/tropical-paradise-2026/
 URL:https://leekduck.com/events/tropical-paradise-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/tropical-paradis
+ e-2026.jpg
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261208
 BEGIN:VALARM
@@ -295,7 +262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-12-07
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[MM] Dynamax Deino during Max Monday
 DESCRIPTION:Starts at 11:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-12-07/
@@ -313,7 +280,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-1
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
   Master League: Mega Edition | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -334,7 +301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-slowbro-in-mega-raids-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Mega Slowbro in Mega Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/mega-slowbro-in-mega-raids-december-2026/
@@ -350,7 +317,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regidrago-in-5-star-raid-battles-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Regidrago in 5-star Raid Battles
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/regidrago-in-5-star-raid-battles-december-2026/
@@ -367,7 +334,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261209
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RH] Unannounced Raid Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20261209/
@@ -383,7 +350,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-10
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[PSH] Starly Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-12-10/
@@ -400,7 +367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-communityday2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[CD] December Community Day 2026
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/december-communityday2026/
@@ -416,25 +383,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-event-december-2026
-DTSTAMP:20261125T070527Z
-SUMMARY:[E] Unannounced Event
+UID:pokemon-champions-celebration-event-2026
+DTSTAMP:20261126T065659Z
+SUMMARY:[E] Pokémon Champions Celebration Event 2026
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
- m/events/unannounced-event-december-2026/
-URL:https://leekduck.com/events/unannounced-event-december-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ m/events/pokemon-champions-celebration-event-2026/
+URL:https://leekduck.com/events/pokemon-champions-celebration-event-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-12-08-pokemon-champions-celebration-event-2026/pokemon-champions-
+ celebration-event-2026.jpg
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261215
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Unannounced Event
+DESCRIPTION:[E] Pokémon Champions Celebration Event 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-12-14
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[MM] Dynamax Eevee during Max Monday
 DESCRIPTION:Starts at 11:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-12-14/
@@ -452,7 +420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-
  league-edition
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Great League: Mega Edition and Mountain Cup: Great League Edi
  tion | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -473,7 +441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gengar-in-mega-raids-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Mega Gengar in Mega Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/mega-gengar-in-mega-raids-december-2026/
@@ -488,26 +456,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-pokemon-in-5-star-raid-battles-december-2026
-DTSTAMP:20261125T070527Z
-SUMMARY:[RB] Unannounced Pokémon in 5-star Raid Battles
+UID:pokemon-champions-celebration-5-star-raid-battles-december-2026
+DTSTAMP:20261126T065659Z
+SUMMARY:[RB] Pokémon Champions Celebration 5-star Raid Battles
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
- m/events/unannounced-pokemon-in-5-star-raid-battles-december-2026/
-URL:https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-
- december-2026/
+ m/events/pokemon-champions-celebration-5-star-raid-battles-december-2026/
+URL:https://leekduck.com/events/pokemon-champions-celebration-5-star-raid-b
+ attles-december-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261216
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Unannounced Pokémon in 5-star Raid Battles
+DESCRIPTION:[RB] Pokémon Champions Celebration 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261216
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RH] Ho-Oh Raid Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20261216/
@@ -523,7 +491,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[E] Minior Showers: Geminids 2026
 DESCRIPTION:Starts at 22:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-geminids-2026/
@@ -540,7 +508,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-17
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[PSH] Bergmite Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-12-17/
@@ -557,7 +525,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/raid-day-december-2026/
@@ -574,7 +542,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2026-12-15
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[CYP] Choose Your Path: Daydream Destinations (December 15\, 2026)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/choose-your-path-daydream-destinations-2026-12-15/
@@ -593,7 +561,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-12-21
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[MM] Dynamax Alolan Sandshrew during Max Monday
 DESCRIPTION:Starts at 11:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-12-21/
@@ -611,7 +579,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-l
  eague-edition
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Ultra League: Mega Edition and Holiday Cup: Great League Edit
  ion | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -632,7 +600,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ho-oh-in-5-star-raid-battles-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Ho-Oh in 5-star Raid Battles
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/ho-oh-in-5-star-raid-battles-december-2026/
@@ -648,7 +616,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-skarmory-in-mega-raids-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Mega Skarmory in Mega Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/mega-skarmory-in-mega-raids-december-2026/
@@ -664,7 +632,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261223
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RH] Lugia Raid Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/raidhour20261223/
@@ -680,7 +648,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-24
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[PSH] Delibird Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-12-24/
@@ -697,7 +665,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 16:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/hatch-day-december-2026/
@@ -714,7 +682,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[E] Winter Holiday 2026
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/winter-holiday-2026/
@@ -731,7 +699,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-12-28
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[MM] Dynamax Magikarp during Max Monday
 DESCRIPTION:Starts at 11:00 EST\, ends at 02:00 EST.\n\nhttps://leekduck.co
  m/events/max-mondays-2026-12-28/
@@ -749,7 +717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-
  league-edition
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Master League: Mega Edition and Holiday Cup: Great League Edi
  tion | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -770,7 +738,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Lugia in 5-star Raid Battles
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/lugia-in-5-star-raid-battles-december-2026/
@@ -786,7 +754,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/mega-glalie-in-mega-raids-december-2026/
@@ -802,7 +770,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261230
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RH] Tornadus (Therian Forme)\, Thundurus (Therian Forme)\, and Lan
  dorus (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
@@ -820,7 +788,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-31
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[PSH] Plusle and Minun Spotlight Hour
 DESCRIPTION:Starts at 23:00 EST\, ends at 00:00 EST.\n\nhttps://leekduck.co
  m/events/pokemonspotlighthour2026-12-31/
@@ -837,7 +805,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:duolingo-timed-research-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[TR] Pokémon GO and Duolingo Timed Research
 DESCRIPTION:Starts at 15:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/duolingo-timed-research-2026/
@@ -855,7 +823,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[CD] January Community Day Classic
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/january-communitydayclassic2027/
@@ -871,7 +839,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[E] New Year's 2027
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/new-years-2027/
@@ -888,7 +856,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GP] GO Pass: December
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/go-pass-december-2026/
@@ -906,7 +874,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-2
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
   Master League: Mega Edition | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -927,7 +895,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-dialga-in-shadow-raids-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Shadow Dialga in Shadow Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/shadow-dialga-in-shadow-raids-december-2026/
@@ -944,7 +912,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-falinks-in-mega-raids-december-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Mega Falinks in Mega Raids
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
  m/events/mega-falinks-in-mega-raids-december-2026/
@@ -961,7 +929,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-decem
  ber-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RB] Tornadus\, Thundurus\, and Landorus (Therian Formes) in 5-star
   Raid Battles
 DESCRIPTION:Starts at 11:00 EST\, ends at 03:00 EST.\n\nhttps://leekduck.co
@@ -982,7 +950,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-january-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RD] Super Mega Raid Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/super-mega-raid-day-january-2027/
@@ -1000,7 +968,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-
  league-edition
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Great League: Mega Edition and Fighting Cup: Great League Edi
  tion | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -1021,7 +989,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-x-adidas-2026
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[R] adidas × Pokémon Timed Research
 DESCRIPTION:Starts at 14:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/pokemon-x-adidas-2026/
@@ -1038,7 +1006,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[CD] January Community Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/january-communityday2027/
@@ -1054,7 +1022,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-01-12
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[CYP] Choose Your Path: Daydream Destinations (January 12\, 2027)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/choose-your-path-daydream-destinations-2027-01-12/
@@ -1074,7 +1042,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-le
  ague-edition
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Ultra League: Mega Edition and Jungle Cup: Great League Editi
  on | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -1095,7 +1063,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-january-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/max-battle-day-january-2027/
@@ -1112,7 +1080,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_master-league
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Master League: Mega Edition and Master League | Daydream Dest
  inations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -1133,7 +1101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-january-30-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RD] Super Mega Raid Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/super-mega-raid-day-january-30-2027/
@@ -1150,7 +1118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-01-26
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[CYP] Choose Your Path: Daydream Destinations (January 26\, 2027)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/choose-your-path-daydream-destinations-2027-01-26/
@@ -1170,7 +1138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-3
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
   Master League: Mega Edition | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -1191,7 +1159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[CD] February Community Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/february-communityday2027/
@@ -1207,7 +1175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_master-league
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Great League: Mega Edition and Master League | Daydream Desti
  nations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -1228,7 +1196,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 19:00 EST\, ends at 22:00 EST.\n\nhttps://leekduck.co
  m/events/raid-day-february-2027/
@@ -1246,7 +1214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-leag
  ue-edition_2027-go-euic-cup
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Ultra League: Mega Edition\, Love Cup: Great League Edition\,
   and 2027 GO EUIC Cup | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -1267,7 +1235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[PGT] Pokémon GO Tour: Alola - Kaohsiung 2027
 DESCRIPTION:Starts at 16:00 EST\, ends at 15:59 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-alola-kaohsiung-2027/
@@ -1284,7 +1252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-02-16
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[CYP] Choose Your Path: Daydream Destinations (February 16\, 2027)
 DESCRIPTION:Starts at 15:00 EST\, ends at 01:00 EST.\n\nhttps://leekduck.co
  m/events/choose-your-path-daydream-destinations-2027-02-16/
@@ -1303,7 +1271,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[PGT] Pokémon GO Tour: Alola - Los Angeles 2027
 DESCRIPTION:Starts at 08:00 EST\, ends at 07:59 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-alola-los-angeles-2027/
@@ -1321,7 +1289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-gre
  at-league-edition_2027-go-euic-cup
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Master League: Mega Edition\, Mega Catch Cup: Great League Ed
  ition\, and 2027 GO EUIC Cup | Daydream Destinations
 DESCRIPTION:Starts at 21:00 EST\, ends at 21:00 EST.\n\nhttps://leekduck.co
@@ -1342,7 +1310,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[PGT] Pokémon GO Tour: Alola - Global 2027
 DESCRIPTION:Starts at 05:00 EST\, ends at 04:59 EST.\n\nhttps://leekduck.co
  m/events/pokemon-go-tour-alola-global-2027/
@@ -1359,7 +1327,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-25-daydream-destinations
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[S] Daydream Destinations
 DESCRIPTION:Starts at 15:00 EST\, ends at 15:00 EST.\n\nhttps://leekduck.co
  m/events/season-25-daydream-destinations/
@@ -1378,7 +1346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition_mega-catch-cup-great-league-edition
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, Mas
  ter League: Mega Edition\, and Mega Catch Cup: Great League Edition | Dayd
  ream Destinations
@@ -1403,7 +1371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[E] Minior Showers: Eta Aquariids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-eta-aquariids-2027/
@@ -1420,7 +1388,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[E] Minior Showers: Southern Delta Aquariids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-southern-delta-aquariids-2027/
@@ -1438,7 +1406,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027
-DTSTAMP:20261125T070527Z
+DTSTAMP:20261126T065659Z
 SUMMARY:[E] Minior Showers: Perseids 2027
 DESCRIPTION:Starts at 21:00 EST\, ends at 03:59 EST.\n\nhttps://leekduck.co
  m/events/minior-showers-perseids-2027/
